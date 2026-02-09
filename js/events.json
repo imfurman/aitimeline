@@ -1,0 +1,1409 @@
+[
+  {
+    "file": "1950-10-turing-imitation-game.md",
+    "slug": "1950-10-turing-imitation-game",
+    "permalink": "event/1950-10-turing-imitation-game/",
+    "title": "Computing Machinery and Intelligence",
+    "date": "1950-10-01",
+    "category": "research",
+    "tags": [
+      "alan-turing",
+      "turing-test",
+      "ai-history",
+      "philosophy"
+    ],
+    "short": "Alan Turing publishes the paper that frames the modern question of machine intelligence and proposes what became known as the Turing Test."
+  },
+  {
+    "file": "1956-06-dartmouth-workshop.md",
+    "slug": "1956-06-dartmouth-workshop",
+    "permalink": "event/1956-06-dartmouth-workshop/",
+    "title": "Dartmouth Summer Research Project on Artificial Intelligence",
+    "date": "1956-06-18",
+    "category": "milestone",
+    "tags": [
+      "dartmouth",
+      "john-mccarthy",
+      "marvin-minsky",
+      "ai-history"
+    ],
+    "short": "The Dartmouth workshop convenes, popularizing the term 'artificial intelligence' and becoming a foundational milestone for AI as a field."
+  },
+  {
+    "file": "1958-11-perceptron.md",
+    "slug": "1958-11-perceptron",
+    "permalink": "event/1958-11-perceptron/",
+    "title": "The Perceptron",
+    "date": "1958-11-01",
+    "category": "research",
+    "tags": [
+      "frank-rosenblatt",
+      "perceptron",
+      "neural-networks",
+      "machine-learning"
+    ],
+    "short": "Frank Rosenblatt publishes the Perceptron, an early trainable model that shaped the neural-network lineage of modern AI."
+  },
+  {
+    "file": "1966-01-eliza.md",
+    "slug": "1966-01-eliza",
+    "permalink": "event/1966-01-eliza/",
+    "title": "ELIZA",
+    "date": "1966-01-01",
+    "category": "research",
+    "tags": [
+      "joseph-weizenbaum",
+      "chatbot",
+      "nlp",
+      "human-computer-interaction"
+    ],
+    "short": "Joseph Weizenbaum publishes ELIZA, an early conversational program that popularizes the idea of human-like dialog with computers."
+  },
+  {
+    "file": "1986-10-backpropagation-nature.md",
+    "slug": "1986-10-backpropagation-nature",
+    "permalink": "event/1986-10-backpropagation-nature/",
+    "title": "Learning representations by back-propagating errors",
+    "date": "1986-10-09",
+    "category": "architecture",
+    "tags": [
+      "backpropagation",
+      "geoffrey-hinton",
+      "neural-networks",
+      "optimization"
+    ],
+    "short": "Rumelhart, Hinton, and Williams publish a widely influential account of backpropagation, accelerating practical training of neural networks."
+  },
+  {
+    "file": "2009-06-imagenet-dataset.md",
+    "slug": "2009-06-imagenet-dataset",
+    "permalink": "event/2009-06-imagenet-dataset/",
+    "title": "ImageNet Dataset Introduced",
+    "date": "2009-06-20",
+    "category": "milestone",
+    "tags": [
+      "imagenet",
+      "dataset",
+      "computer-vision",
+      "benchmarks"
+    ],
+    "short": "Researchers introduce ImageNet, helping standardize large-scale vision benchmarking and accelerating dataset-driven deep learning."
+  },
+  {
+    "file": "2012-07-dropout.md",
+    "slug": "2012-07-dropout",
+    "permalink": "event/2012-07-dropout/",
+    "title": "Dropout",
+    "date": "2012-07-03",
+    "category": "research",
+    "tags": [
+      "dropout",
+      "regularization",
+      "deep-learning"
+    ],
+    "short": "Dropout is introduced as a simple stochastic regularization technique that improves generalization in neural networks."
+  },
+  {
+    "file": "2014-06-generative-adversarial-networks.md",
+    "slug": "2014-06-generative-adversarial-networks",
+    "permalink": "event/2014-06-generative-adversarial-networks/",
+    "title": "Generative Adversarial Networks",
+    "date": "2014-06-10",
+    "category": "architecture",
+    "tags": [
+      "gans",
+      "ian-goodfellow",
+      "generative-models",
+      "deep-learning"
+    ],
+    "short": "Goodfellow and colleagues introduce GANs, framing generative modeling as a game between a generator and a discriminator."
+  },
+  {
+    "file": "2014-09-attention-for-nmt.md",
+    "slug": "2014-09-attention-for-nmt",
+    "permalink": "event/2014-09-attention-for-nmt/",
+    "title": "Neural Machine Translation with Attention",
+    "date": "2014-09-01",
+    "category": "architecture",
+    "tags": [
+      "attention",
+      "neural-machine-translation",
+      "nlp",
+      "deep-learning"
+    ],
+    "short": "Bahdanau, Cho, and Bengio propose an attention mechanism for neural machine translation, improving sequence-to-sequence modeling."
+  },
+  {
+    "file": "2015-03-batch-normalization.md",
+    "slug": "2015-03-batch-normalization",
+    "permalink": "event/2015-03-batch-normalization/",
+    "title": "Batch Normalization",
+    "date": "2015-03-02",
+    "category": "architecture",
+    "tags": [
+      "batchnorm",
+      "optimization",
+      "training-stability",
+      "deep-learning"
+    ],
+    "short": "Ioffe and Szegedy introduce Batch Normalization, improving training stability and speed for deep networks."
+  },
+  {
+    "file": "2015-11-tensorflow-open-source.md",
+    "slug": "2015-11-tensorflow-open-source",
+    "permalink": "event/2015-11-tensorflow-open-source/",
+    "title": "TensorFlow Open-Sourced",
+    "date": "2015-11-10",
+    "category": "tool",
+    "tags": [
+      "tensorflow",
+      "google",
+      "open-source",
+      "deep-learning-framework"
+    ],
+    "short": "Google open-sources TensorFlow, accelerating the spread of scalable deep learning tooling in research and industry."
+  },
+  {
+    "file": "2015-12-resnet.md",
+    "slug": "2015-12-resnet",
+    "permalink": "event/2015-12-resnet/",
+    "title": "Deep Residual Learning for Image Recognition",
+    "date": "2015-12-10",
+    "category": "architecture",
+    "tags": [
+      "resnet",
+      "residual-connections",
+      "computer-vision",
+      "deep-learning"
+    ],
+    "short": "He and colleagues introduce residual connections, enabling very deep networks and influencing modern architecture design."
+  },
+  {
+    "file": "2017-06-attention-is-all-you-need.md",
+    "slug": "2017-06-attention-is-all-you-need",
+    "permalink": "event/2017-06-attention-is-all-you-need/",
+    "title": "Attention Is All You Need",
+    "date": "2017-06-12",
+    "category": "architecture",
+    "tags": [
+      "google",
+      "transformer",
+      "attention",
+      "deep-learning"
+    ],
+    "short": "Google researchers introduce the Transformer architecture, replacing recurrence with self-attention and revolutionizing NLP and beyond."
+  },
+  {
+    "file": "2017-09-onnx-announced.md",
+    "slug": "2017-09-onnx-announced",
+    "permalink": "event/2017-09-onnx-announced/",
+    "title": "ONNX Announced",
+    "date": "2017-09-07",
+    "category": "tool",
+    "tags": [
+      "onnx",
+      "interoperability",
+      "pytorch",
+      "microsoft"
+    ],
+    "short": "Facebook and Microsoft announce ONNX to improve interoperability of deep learning models across frameworks and tooling."
+  },
+  {
+    "file": "2018-06-gpt-1.md",
+    "slug": "2018-06-gpt-1",
+    "permalink": "event/2018-06-gpt-1/",
+    "title": "GPT-1",
+    "date": "2018-06-11",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt",
+      "language-model",
+      "unsupervised-learning"
+    ],
+    "short": "OpenAI releases GPT-1, demonstrating that generative pre-training on unlabeled text followed by fine-tuning can achieve strong NLP performance."
+  },
+  {
+    "file": "2018-10-bert.md",
+    "slug": "2018-10-bert",
+    "permalink": "event/2018-10-bert/",
+    "title": "BERT",
+    "date": "2018-10-11",
+    "category": "architecture",
+    "tags": [
+      "google",
+      "bert",
+      "nlp",
+      "bidirectional",
+      "pre-training"
+    ],
+    "short": "Google introduces BERT, a bidirectional Transformer model that achieves breakthrough results across NLP benchmarks and transforms the field."
+  },
+  {
+    "file": "2018-12-pytorch-1-0.md",
+    "slug": "2018-12-pytorch-1-0",
+    "permalink": "event/2018-12-pytorch-1-0/",
+    "title": "PyTorch 1.0 Stable Release",
+    "date": "2018-12-07",
+    "category": "tool",
+    "tags": [
+      "pytorch",
+      "open-source",
+      "deep-learning-framework"
+    ],
+    "short": "PyTorch 1.0 ships as a stable release, strengthening the framework’s role from research prototyping to production."
+  },
+  {
+    "file": "2019-02-gpt-2.md",
+    "slug": "2019-02-gpt-2",
+    "permalink": "event/2019-02-gpt-2/",
+    "title": "GPT-2",
+    "date": "2019-02-14",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-2",
+      "language-model",
+      "text-generation"
+    ],
+    "short": "OpenAI releases GPT-2, a 1.5B parameter model capable of generating coherent long-form text, initially withheld over misuse concerns."
+  },
+  {
+    "file": "2020-05-gpt-3.md",
+    "slug": "2020-05-gpt-3",
+    "permalink": "event/2020-05-gpt-3/",
+    "title": "GPT-3",
+    "date": "2020-05-28",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-3",
+      "language-model",
+      "few-shot-learning",
+      "api"
+    ],
+    "short": "OpenAI unveils GPT-3 with 175 billion parameters, demonstrating remarkable few-shot learning abilities and launching the era of large language models."
+  },
+  {
+    "file": "2020-06-ddpm.md",
+    "slug": "2020-06-ddpm",
+    "permalink": "event/2020-06-ddpm/",
+    "title": "Denoising Diffusion Probabilistic Models",
+    "date": "2020-06-19",
+    "category": "research",
+    "tags": [
+      "diffusion",
+      "generative-models",
+      "image-generation"
+    ],
+    "short": "Ho, Jain, and Abbeel publish DDPM, helping establish diffusion as a leading approach to high-quality image generation."
+  },
+  {
+    "file": "2020-10-alphafold-2.md",
+    "slug": "2020-10-alphafold-2",
+    "permalink": "event/2020-10-alphafold-2/",
+    "title": "AlphaFold 2",
+    "date": "2020-11-30",
+    "category": "research",
+    "tags": [
+      "deepmind",
+      "alphafold",
+      "protein-folding",
+      "biology",
+      "casp"
+    ],
+    "short": "DeepMind's AlphaFold 2 solves the protein structure prediction problem at CASP14, achieving accuracy comparable to experimental methods."
+  },
+  {
+    "file": "2021-01-clip.md",
+    "slug": "2021-01-clip",
+    "permalink": "event/2021-01-clip/",
+    "title": "CLIP: Connecting Text and Images",
+    "date": "2021-01-05",
+    "category": "research",
+    "tags": [
+      "clip",
+      "multimodal",
+      "contrastive-learning",
+      "openai"
+    ],
+    "short": "OpenAI introduces CLIP, a contrastive multimodal model that enables strong zero-shot image recognition from natural language prompts."
+  },
+  {
+    "file": "2021-01-dall-e.md",
+    "slug": "2021-01-dall-e",
+    "permalink": "event/2021-01-dall-e/",
+    "title": "DALL·E",
+    "date": "2021-01-05",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "dall-e",
+      "image-generation",
+      "multimodal",
+      "text-to-image"
+    ],
+    "short": "OpenAI introduces DALL·E, a 12-billion parameter model that generates images from text descriptions, opening the era of text-to-image AI."
+  },
+  {
+    "file": "2021-06-lora.md",
+    "slug": "2021-06-lora",
+    "permalink": "event/2021-06-lora/",
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "date": "2021-06-17",
+    "category": "architecture",
+    "tags": [
+      "lora",
+      "fine-tuning",
+      "parameter-efficient",
+      "llm"
+    ],
+    "short": "LoRA introduces a parameter-efficient fine-tuning technique by injecting low-rank adapters into frozen pretrained models."
+  },
+  {
+    "file": "2021-06-github-copilot.md",
+    "slug": "2021-06-github-copilot",
+    "permalink": "event/2021-06-github-copilot/",
+    "title": "GitHub Copilot",
+    "date": "2021-06-29",
+    "category": "product-launch",
+    "tags": [
+      "github",
+      "openai",
+      "copilot",
+      "code-generation",
+      "codex"
+    ],
+    "short": "GitHub launches Copilot, an AI pair programmer powered by OpenAI Codex that autocompletes code in real time within IDEs."
+  },
+  {
+    "file": "2021-08-codex.md",
+    "slug": "2021-08-codex",
+    "permalink": "event/2021-08-codex/",
+    "title": "OpenAI Codex",
+    "date": "2021-08-10",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "codex",
+      "code-generation",
+      "gpt-3"
+    ],
+    "short": "OpenAI releases Codex, a GPT-3 descendant fine-tuned on code that powers GitHub Copilot and can translate natural language to programming code."
+  },
+  {
+    "file": "2022-03-instructgpt-rlhf.md",
+    "slug": "2022-03-instructgpt-rlhf",
+    "permalink": "event/2022-03-instructgpt-rlhf/",
+    "title": "InstructGPT and RLHF",
+    "date": "2022-03-04",
+    "category": "research",
+    "tags": [
+      "rlhf",
+      "alignment",
+      "instructgpt",
+      "openai"
+    ],
+    "short": "OpenAI publishes InstructGPT, showing that fine-tuning with human feedback can make models more helpful even at smaller sizes."
+  },
+  {
+    "file": "2022-04-dall-e-2.md",
+    "slug": "2022-04-dall-e-2",
+    "permalink": "event/2022-04-dall-e-2/",
+    "title": "DALL·E 2",
+    "date": "2022-04-06",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "dall-e-2",
+      "image-generation",
+      "diffusion",
+      "text-to-image"
+    ],
+    "short": "OpenAI unveils DALL·E 2, producing photorealistic images from text at 1024×1024 resolution using diffusion models and CLIP guidance."
+  },
+  {
+    "file": "2022-05-flashattention.md",
+    "slug": "2022-05-flashattention",
+    "permalink": "event/2022-05-flashattention/",
+    "title": "FlashAttention",
+    "date": "2022-05-27",
+    "category": "architecture",
+    "tags": [
+      "flashattention",
+      "kernels",
+      "transformer",
+      "efficiency"
+    ],
+    "short": "FlashAttention is introduced as an IO-aware exact attention algorithm that improves speed and memory efficiency for Transformers."
+  },
+  {
+    "file": "2022-07-stable-diffusion.md",
+    "slug": "2022-07-stable-diffusion",
+    "permalink": "event/2022-07-stable-diffusion/",
+    "title": "Stable Diffusion",
+    "date": "2022-08-22",
+    "category": "open-source",
+    "tags": [
+      "stability-ai",
+      "stable-diffusion",
+      "image-generation",
+      "diffusion",
+      "open-source"
+    ],
+    "short": "Stability AI releases Stable Diffusion as open source, democratizing high-quality text-to-image generation and igniting the open generative AI movement."
+  },
+  {
+    "file": "2022-09-whisper-open-sourced.md",
+    "slug": "2022-09-whisper-open-sourced",
+    "permalink": "event/2022-09-whisper-open-sourced/",
+    "title": "Whisper",
+    "date": "2022-09-21",
+    "category": "model-release",
+    "tags": [
+      "whisper",
+      "speech-recognition",
+      "openai",
+      "open-source"
+    ],
+    "short": "OpenAI releases Whisper, an open-source multilingual speech recognition system trained for robust transcription and translation."
+  },
+  {
+    "file": "2022-11-chatgpt-launch.md",
+    "slug": "2022-11-chatgpt-launch",
+    "permalink": "event/2022-11-chatgpt-launch/",
+    "title": "ChatGPT Launch",
+    "date": "2022-11-30",
+    "category": "product-launch",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "gpt-3.5",
+      "chatbot",
+      "rlhf"
+    ],
+    "short": "OpenAI releases ChatGPT, a conversational AI based on GPT-3.5 with RLHF, sparking mainstream AI adoption and reaching 100 million users in two months."
+  },
+  {
+    "file": "2023-02-llama.md",
+    "slug": "2023-02-llama",
+    "permalink": "event/2023-02-llama/",
+    "title": "LLaMA (Meta)",
+    "date": "2023-02-24",
+    "category": "open-source",
+    "tags": [
+      "meta",
+      "llama",
+      "open-source",
+      "language-model",
+      "research"
+    ],
+    "short": "Meta releases LLaMA, a collection of efficient open-weight language models from 7B to 65B parameters, catalyzing the open-source LLM ecosystem."
+  },
+  {
+    "file": "2023-03-cursor-launch.md",
+    "slug": "2023-03-cursor-launch",
+    "permalink": "event/2023-03-cursor-launch/",
+    "title": "Cursor (AI Code Editor) Launch",
+    "date": "2023-03-01",
+    "category": "product-launch",
+    "tags": [
+      "cursor",
+      "anysphere",
+      "developer-tools",
+      "coding"
+    ],
+    "short": "Cursor launches as an AI-native code editor built on top of VS Code, reflecting the shift toward agentic developer workflows."
+  },
+  {
+    "file": "2023-03-llama-cpp.md",
+    "slug": "2023-03-llama-cpp",
+    "permalink": "event/2023-03-llama-cpp/",
+    "title": "llama.cpp Released",
+    "date": "2023-03-10",
+    "category": "open-source",
+    "tags": [
+      "llama-cpp",
+      "local-llm",
+      "inference",
+      "quantization"
+    ],
+    "short": "llama.cpp is released as an open-source C/C++ inference library, accelerating local LLM experimentation via CPU-friendly execution and quantization."
+  },
+  {
+    "file": "2023-03-gpt-4.md",
+    "slug": "2023-03-gpt-4",
+    "permalink": "event/2023-03-gpt-4/",
+    "title": "GPT-4",
+    "date": "2023-03-14",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-4",
+      "multimodal",
+      "large-language-model"
+    ],
+    "short": "OpenAI releases GPT-4, a multimodal model that accepts text and image inputs, setting new benchmarks across professional and academic exams."
+  },
+  {
+    "file": "2023-05-qlora.md",
+    "slug": "2023-05-qlora",
+    "permalink": "event/2023-05-qlora/",
+    "title": "QLoRA",
+    "date": "2023-05-23",
+    "category": "architecture",
+    "tags": [
+      "qlora",
+      "quantization",
+      "fine-tuning",
+      "open-llm"
+    ],
+    "short": "QLoRA shows how to fine-tune large models efficiently by combining 4-bit quantization with LoRA-style adapters."
+  },
+  {
+    "file": "2023-05-dpo.md",
+    "slug": "2023-05-dpo",
+    "permalink": "event/2023-05-dpo/",
+    "title": "Direct Preference Optimization",
+    "date": "2023-05-29",
+    "category": "architecture",
+    "tags": [
+      "dpo",
+      "alignment",
+      "preference-learning",
+      "rlhf"
+    ],
+    "short": "DPO is proposed as a simpler alternative to RLHF by optimizing preference objectives without explicit reinforcement learning."
+  },
+  {
+    "file": "2023-06-vllm.md",
+    "slug": "2023-06-vllm",
+    "permalink": "event/2023-06-vllm/",
+    "title": "vLLM Introduced",
+    "date": "2023-06-20",
+    "category": "open-source",
+    "tags": [
+      "vllm",
+      "llm-serving",
+      "inference",
+      "pagedattention"
+    ],
+    "short": "The vLLM project is introduced as an open-source library for faster and cheaper LLM serving using PagedAttention."
+  },
+  {
+    "file": "2023-07-llama-2.md",
+    "slug": "2023-07-llama-2",
+    "permalink": "event/2023-07-llama-2/",
+    "title": "Llama 2",
+    "date": "2023-07-18",
+    "category": "open-source",
+    "tags": [
+      "meta",
+      "llama-2",
+      "open-source",
+      "language-model",
+      "commercial"
+    ],
+    "short": "Meta releases Llama 2 with a permissive commercial license, providing open-weight models from 7B to 70B parameters and advancing open-source AI."
+  },
+  {
+    "file": "2023-09-pagedattention-paper.md",
+    "slug": "2023-09-pagedattention-paper",
+    "permalink": "event/2023-09-pagedattention-paper/",
+    "title": "PagedAttention Paper",
+    "date": "2023-09-12",
+    "category": "research",
+    "tags": [
+      "pagedattention",
+      "llm-serving",
+      "kv-cache",
+      "vllm"
+    ],
+    "short": "The PagedAttention paper formalizes a KV-cache memory management approach for higher-throughput LLM serving and introduces vLLM."
+  },
+  {
+    "file": "2023-09-mistral-7b.md",
+    "slug": "2023-09-mistral-7b",
+    "permalink": "event/2023-09-mistral-7b/",
+    "title": "Mistral 7B",
+    "date": "2023-09-27",
+    "category": "open-source",
+    "tags": [
+      "mistral",
+      "open-source",
+      "language-model",
+      "efficient"
+    ],
+    "short": "French startup Mistral AI releases Mistral 7B, an efficient open-source model that outperforms Llama 2 13B on all benchmarks."
+  },
+  {
+    "file": "2023-12-gemini.md",
+    "slug": "2023-12-gemini",
+    "permalink": "event/2023-12-gemini/",
+    "title": "Gemini (Google)",
+    "date": "2023-12-06",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "deepmind",
+      "gemini",
+      "multimodal",
+      "large-language-model"
+    ],
+    "short": "Google DeepMind launches Gemini, a natively multimodal AI model family that processes text, images, audio, and video, competing directly with GPT-4."
+  },
+  {
+    "file": "2024-02-gemini-1-5.md",
+    "slug": "2024-02-gemini-1-5",
+    "permalink": "event/2024-02-gemini-1-5/",
+    "title": "Gemini 1.5",
+    "date": "2024-02-15",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "deepmind",
+      "gemini",
+      "long-context",
+      "mixture-of-experts"
+    ],
+    "short": "Google DeepMind releases Gemini 1.5 Pro with a groundbreaking 1 million token context window, enabling processing of entire codebases and hour-long videos."
+  },
+  {
+    "file": "2024-02-sora.md",
+    "slug": "2024-02-sora",
+    "permalink": "event/2024-02-sora/",
+    "title": "Sora (OpenAI)",
+    "date": "2024-02-15",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "sora",
+      "video-generation",
+      "diffusion",
+      "text-to-video"
+    ],
+    "short": "OpenAI previews Sora, a text-to-video diffusion model capable of generating photorealistic minute-long videos from text prompts."
+  },
+  {
+    "file": "2024-03-claude-3.md",
+    "slug": "2024-03-claude-3",
+    "permalink": "event/2024-03-claude-3/",
+    "title": "Claude 3",
+    "date": "2024-03-04",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "claude-3",
+      "multimodal",
+      "safety"
+    ],
+    "short": "Anthropic releases the Claude 3 model family (Haiku, Sonnet, Opus) with vision capabilities, setting new benchmarks in reasoning and safety."
+  },
+  {
+    "file": "2024-05-gpt-4o.md",
+    "slug": "2024-05-gpt-4o",
+    "permalink": "event/2024-05-gpt-4o/",
+    "title": "Hello GPT-4o",
+    "date": "2024-05-13",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-4o",
+      "multimodal",
+      "realtime",
+      "voice",
+      "vision"
+    ],
+    "short": "OpenAI announces GPT-4o, a multimodal flagship model aimed at real-time interaction across text, vision, and audio."
+  },
+  {
+    "file": "2024-07-gpt-4o-mini.md",
+    "slug": "2024-07-gpt-4o-mini",
+    "permalink": "event/2024-07-gpt-4o-mini/",
+    "title": "GPT-4o mini",
+    "date": "2024-07-18",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-4o-mini",
+      "small-model",
+      "cost-efficient",
+      "vision"
+    ],
+    "short": "OpenAI releases GPT-4o mini, a cost-efficient small model positioned for broad deployment in apps and APIs."
+  },
+  {
+    "file": "2024-07-llama-3-1.md",
+    "slug": "2024-07-llama-3-1",
+    "permalink": "event/2024-07-llama-3-1/",
+    "title": "Llama 3.1",
+    "date": "2024-07-23",
+    "category": "open-source",
+    "tags": [
+      "meta",
+      "llama-3",
+      "open-source",
+      "language-model",
+      "405b"
+    ],
+    "short": "Meta releases Llama 3.1 with models up to 405B parameters under an open license, rivaling closed frontier models and setting a new bar for open-weight AI."
+  },
+  {
+    "file": "2024-07-mistral-large-2.md",
+    "slug": "2024-07-mistral-large-2",
+    "permalink": "event/2024-07-mistral-large-2/",
+    "title": "Mistral Large 2",
+    "date": "2024-07-24",
+    "category": "model-release",
+    "tags": [
+      "mistral",
+      "mistral-large-2",
+      "long-context",
+      "multilingual",
+      "function-calling"
+    ],
+    "short": "Mistral AI releases Mistral Large 2, a flagship model emphasizing long context, multilingual performance, and tool/function calling."
+  },
+  {
+    "file": "2024-08-eu-ai-act-enters-into-force.md",
+    "slug": "2024-08-eu-ai-act-enters-into-force",
+    "permalink": "event/2024-08-eu-ai-act-enters-into-force/",
+    "title": "EU AI Act Enters into Force",
+    "date": "2024-08-01",
+    "category": "regulation",
+    "tags": [
+      "eu",
+      "ai-act",
+      "regulation",
+      "governance"
+    ],
+    "short": "The European Union’s AI Act enters into force, establishing a comprehensive risk-based regulatory framework for AI systems."
+  },
+  {
+    "file": "2024-09-llama-3-2.md",
+    "slug": "2024-09-llama-3-2",
+    "permalink": "event/2024-09-llama-3-2/",
+    "title": "Llama 3.2",
+    "date": "2024-09-25",
+    "category": "open-source",
+    "tags": [
+      "meta",
+      "llama",
+      "llama-3-2",
+      "open-weights",
+      "multimodal"
+    ],
+    "short": "Meta releases Llama 3.2, adding new model variants and expanding the Llama open-weight lineup."
+  },
+  {
+    "file": "2024-10-claude-computer-use.md",
+    "slug": "2024-10-claude-computer-use",
+    "permalink": "event/2024-10-claude-computer-use/",
+    "title": "Claude Computer Use",
+    "date": "2024-10-29",
+    "category": "product-launch",
+    "tags": [
+      "anthropic",
+      "claude",
+      "computer-use",
+      "agentic",
+      "tool-use"
+    ],
+    "short": "Anthropic launches Claude computer use in public beta, enabling Claude to interact with desktop environments by viewing screens and controlling mouse and keyboard."
+  },
+  {
+    "file": "2024-12-o3.md",
+    "slug": "2024-12-o3",
+    "permalink": "event/2024-12-o3/",
+    "title": "o3 (OpenAI)",
+    "date": "2024-12-20",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "o3",
+      "reasoning",
+      "chain-of-thought",
+      "benchmark"
+    ],
+    "short": "OpenAI announces o3, a reasoning-focused model that achieves breakthrough scores on ARC-AGI and math benchmarks using extended chain-of-thought."
+  },
+  {
+    "file": "2025-01-deepseek-r1.md",
+    "slug": "2025-01-deepseek-r1",
+    "permalink": "event/2025-01-deepseek-r1/",
+    "title": "DeepSeek R1",
+    "date": "2025-01-20",
+    "category": "open-source",
+    "tags": [
+      "deepseek",
+      "r1",
+      "reasoning",
+      "open-source",
+      "china"
+    ],
+    "short": "DeepSeek releases R1, an open-weight reasoning model rivaling OpenAI's o1 at a fraction of the training cost, shaking up the AI industry."
+  },
+  {
+    "file": "2025-02-claude-3-7-sonnet.md",
+    "slug": "2025-02-claude-3-7-sonnet",
+    "permalink": "event/2025-02-claude-3-7-sonnet/",
+    "title": "Claude 3.7 Sonnet",
+    "date": "2025-02-24",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "sonnet",
+      "hybrid-reasoning",
+      "coding"
+    ],
+    "short": "Anthropic releases Claude 3.7 Sonnet, positioning it as a hybrid reasoning model with major improvements in coding and agent tasks."
+  },
+  {
+    "file": "2025-02-claude-code-preview.md",
+    "slug": "2025-02-claude-code-preview",
+    "permalink": "event/2025-02-claude-code-preview/",
+    "title": "Claude Code (Research Preview)",
+    "date": "2025-02-24",
+    "category": "product-launch",
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "coding-agent",
+      "cli",
+      "developer-tools"
+    ],
+    "short": "Anthropic introduces Claude Code in a limited research preview, bringing agentic coding workflows into the terminal."
+  },
+  {
+    "file": "2025-03-gpt-4-5.md",
+    "slug": "2025-03-gpt-4-5",
+    "permalink": "event/2025-03-gpt-4-5/",
+    "title": "GPT-4.5",
+    "date": "2025-02-27",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-4.5",
+      "language-model",
+      "unsupervised-learning"
+    ],
+    "short": "OpenAI releases GPT-4.5, its largest and most knowledge-dense model, emphasizing improved factuality, broader knowledge, and reduced hallucination."
+  },
+  {
+    "file": "2025-03-gemma-3.md",
+    "slug": "2025-03-gemma-3",
+    "permalink": "event/2025-03-gemma-3/",
+    "title": "Gemma 3",
+    "date": "2025-03-12",
+    "category": "open-source",
+    "tags": [
+      "google",
+      "google-deepmind",
+      "gemma",
+      "open-models"
+    ],
+    "short": "Google introduces Gemma 3, a family of lightweight open models derived from Gemini research and designed for on-device or single-accelerator use."
+  },
+  {
+    "file": "2025-03-gemini-2-5.md",
+    "slug": "2025-03-gemini-2-5",
+    "permalink": "event/2025-03-gemini-2-5/",
+    "title": "Gemini 2.5",
+    "date": "2025-03-25",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "google-deepmind",
+      "gemini",
+      "reasoning",
+      "thinking-model"
+    ],
+    "short": "Google introduces Gemini 2.5 as a thinking model family, emphasizing improved reasoning and coding performance."
+  },
+  {
+    "file": "2025-04-llama-4.md",
+    "slug": "2025-04-llama-4",
+    "permalink": "event/2025-04-llama-4/",
+    "title": "Llama 4 (Scout and Maverick)",
+    "date": "2025-04-05",
+    "category": "open-source",
+    "tags": [
+      "meta",
+      "llama-4",
+      "scout",
+      "maverick",
+      "mixture-of-experts",
+      "multimodal"
+    ],
+    "short": "Meta releases Llama 4 Scout and Llama 4 Maverick, introducing a new generation of Llama models and previewing a larger Behemoth variant."
+  },
+  {
+    "file": "2025-04-gpt-4-1.md",
+    "slug": "2025-04-gpt-4-1",
+    "permalink": "event/2025-04-gpt-4-1/",
+    "title": "GPT-4.1",
+    "date": "2025-04-14",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-4-1",
+      "long-context",
+      "coding",
+      "api"
+    ],
+    "short": "OpenAI introduces GPT-4.1 in the API, emphasizing coding gains, instruction following, and up to 1M-token context."
+  },
+  {
+    "file": "2025-04-openai-o3-and-o4-mini.md",
+    "slug": "2025-04-openai-o3-and-o4-mini",
+    "permalink": "event/2025-04-openai-o3-and-o4-mini/",
+    "title": "OpenAI o3 and o4-mini",
+    "date": "2025-04-16",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "o3",
+      "o4-mini",
+      "reasoning",
+      "tool-use",
+      "agents"
+    ],
+    "short": "OpenAI introduces o3 and o4-mini as reasoning-focused models with full tool access for agentic workflows."
+  },
+  {
+    "file": "2025-05-introducing-codex.md",
+    "slug": "2025-05-introducing-codex",
+    "permalink": "event/2025-05-introducing-codex/",
+    "title": "Introducing Codex",
+    "date": "2025-05-16",
+    "category": "product-launch",
+    "tags": [
+      "openai",
+      "codex",
+      "agents",
+      "software-engineering",
+      "pull-requests"
+    ],
+    "short": "OpenAI launches Codex, a cloud-based software engineering agent that can run parallel tasks and propose PRs."
+  },
+  {
+    "file": "2025-06-claude-4-sonnet.md",
+    "slug": "2025-06-claude-4-sonnet",
+    "permalink": "event/2025-06-claude-4-sonnet/",
+    "title": "Claude 4 Sonnet",
+    "date": "2025-05-22",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "claude-4",
+      "sonnet",
+      "coding",
+      "agentic"
+    ],
+    "short": "Anthropic releases Claude 4 Sonnet, a frontier model excelling at coding, agentic tasks, and extended thinking, powering a new generation of AI tools."
+  },
+  {
+    "file": "2025-07-grok-4.md",
+    "slug": "2025-07-grok-4",
+    "permalink": "event/2025-07-grok-4/",
+    "title": "Grok 4",
+    "date": "2025-07-09",
+    "category": "model-release",
+    "tags": [
+      "xai",
+      "grok-4",
+      "tool-use",
+      "search",
+      "reinforcement-learning"
+    ],
+    "short": "xAI releases Grok 4, emphasizing native tool use and real-time search integration for up-to-date answers."
+  },
+  {
+    "file": "2025-08-gpt-5.md",
+    "slug": "2025-08-gpt-5",
+    "permalink": "event/2025-08-gpt-5/",
+    "title": "GPT-5",
+    "date": "2025-08-07",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-5",
+      "flagship",
+      "reasoning",
+      "multimodal"
+    ],
+    "short": "OpenAI releases GPT-5, positioning it as a flagship model with built-in thinking for faster and more reliable performance."
+  },
+  {
+    "file": "2025-09-codex-upgrades.md",
+    "slug": "2025-09-codex-upgrades",
+    "permalink": "event/2025-09-codex-upgrades/",
+    "title": "Introducing upgrades to Codex",
+    "date": "2025-09-15",
+    "category": "tool",
+    "tags": [
+      "openai",
+      "codex",
+      "cli",
+      "ide",
+      "agentic-coding"
+    ],
+    "short": "OpenAI ships major Codex upgrades, focusing on reliability, collaboration, and agentic work across development surfaces."
+  },
+  {
+    "file": "2025-09-grok-4-fast.md",
+    "slug": "2025-09-grok-4-fast",
+    "permalink": "event/2025-09-grok-4-fast/",
+    "title": "Grok 4 Fast",
+    "date": "2025-09-19",
+    "category": "model-release",
+    "tags": [
+      "xai",
+      "grok-4-fast",
+      "cost-efficient",
+      "long-context",
+      "search"
+    ],
+    "short": "xAI releases Grok 4 Fast, aiming for lower-cost reasoning with strong search and long-context capabilities."
+  },
+  {
+    "file": "2025-09-claude-code-autonomy-upgrades.md",
+    "slug": "2025-09-claude-code-autonomy-upgrades",
+    "permalink": "event/2025-09-claude-code-autonomy-upgrades/",
+    "title": "Claude Code autonomy upgrades",
+    "date": "2025-09-29",
+    "category": "tool",
+    "tags": [
+      "anthropic",
+      "claude-code",
+      "vscode",
+      "checkpoints",
+      "agentic-coding"
+    ],
+    "short": "Anthropic upgrades Claude Code with a native VS Code extension, a v2 terminal experience, and checkpoints for autonomous work."
+  },
+  {
+    "file": "2025-09-claude-sonnet-4-5.md",
+    "slug": "2025-09-claude-sonnet-4-5",
+    "permalink": "event/2025-09-claude-sonnet-4-5/",
+    "title": "Claude Sonnet 4.5",
+    "date": "2025-09-29",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "sonnet-4-5",
+      "agents",
+      "coding",
+      "computer-use"
+    ],
+    "short": "Anthropic releases Claude Sonnet 4.5, emphasizing agent building, coding strength, and computer-use capabilities."
+  },
+  {
+    "file": "2025-10-claude-haiku-4-5.md",
+    "slug": "2025-10-claude-haiku-4-5",
+    "permalink": "event/2025-10-claude-haiku-4-5/",
+    "title": "Claude Haiku 4.5",
+    "date": "2025-10-15",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "haiku-4-5",
+      "small-model",
+      "cost-efficient"
+    ],
+    "short": "Anthropic releases Claude Haiku 4.5, positioning it as a fast, cost-efficient model with near-frontier capability for many tasks."
+  },
+  {
+    "file": "2025-11-openclaw-initial-release.md",
+    "slug": "2025-11-openclaw-initial-release",
+    "permalink": "event/2025-11-openclaw-initial-release/",
+    "title": "OpenClaw (initial release as Clawd/Clawdbot)",
+    "date": "2025-11-01",
+    "category": "open-source",
+    "tags": [
+      "openclaw",
+      "agents",
+      "open-source",
+      "personal-assistant"
+    ],
+    "short": "OpenClaw begins as an open-source personal AI assistant project (initially branded Clawd/Clawdbot), launching in November 2025."
+  },
+  {
+    "file": "2025-11-gpt-5-1.md",
+    "slug": "2025-11-gpt-5-1",
+    "permalink": "event/2025-11-gpt-5-1/",
+    "title": "GPT-5.1",
+    "date": "2025-11-12",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-5-1",
+      "chatgpt",
+      "reasoning"
+    ],
+    "short": "OpenAI releases GPT-5.1, upgrading the GPT-5 series and rolling it out to ChatGPT users in phases."
+  },
+  {
+    "file": "2025-11-grok-4-1.md",
+    "slug": "2025-11-grok-4-1",
+    "permalink": "event/2025-11-grok-4-1/",
+    "title": "Grok 4.1",
+    "date": "2025-11-17",
+    "category": "model-release",
+    "tags": [
+      "xai",
+      "grok-4-1",
+      "usability",
+      "alignment",
+      "rollout"
+    ],
+    "short": "xAI releases Grok 4.1, describing improvements in real-world usability and a staged silent rollout process."
+  },
+  {
+    "file": "2025-11-gemini-3.md",
+    "slug": "2025-11-gemini-3",
+    "permalink": "event/2025-11-gemini-3/",
+    "title": "Gemini 3",
+    "date": "2025-11-18",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "google-deepmind",
+      "gemini-3",
+      "multimodal",
+      "reasoning"
+    ],
+    "short": "Google releases Gemini 3, positioning it as a new flagship generation with stronger reasoning and multimodal capabilities."
+  },
+  {
+    "file": "2025-11-google-antigravity.md",
+    "slug": "2025-11-google-antigravity",
+    "permalink": "event/2025-11-google-antigravity/",
+    "title": "Google Antigravity (public preview)",
+    "date": "2025-11-18",
+    "category": "tool",
+    "tags": [
+      "google",
+      "google-deepmind",
+      "antigravity",
+      "developer-tools",
+      "agents"
+    ],
+    "short": "Google introduces Antigravity, an agentic development platform to manage coding agents across editor, terminal, and browser workflows."
+  },
+  {
+    "file": "2025-11-gpt-5-1-codex-max.md",
+    "slug": "2025-11-gpt-5-1-codex-max",
+    "permalink": "event/2025-11-gpt-5-1-codex-max/",
+    "title": "GPT-5.1-Codex-Max",
+    "date": "2025-11-19",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-5-1",
+      "codex",
+      "agentic-coding",
+      "compaction"
+    ],
+    "short": "OpenAI introduces GPT-5.1-Codex-Max, a frontier agentic coding model built for long-running tasks via compaction."
+  },
+  {
+    "file": "2025-11-claude-opus-4-5.md",
+    "slug": "2025-11-claude-opus-4-5",
+    "permalink": "event/2025-11-claude-opus-4-5/",
+    "title": "Claude Opus 4.5",
+    "date": "2025-11-24",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "opus-4-5",
+      "reasoning",
+      "long-context"
+    ],
+    "short": "Anthropic releases Claude Opus 4.5 as a top-tier model, alongside updates to Claude’s developer platform and apps."
+  },
+  {
+    "file": "2025-12-gemini-3-deep-think.md",
+    "slug": "2025-12-gemini-3-deep-think",
+    "permalink": "event/2025-12-gemini-3-deep-think/",
+    "title": "Gemini 3 Deep Think",
+    "date": "2025-12-04",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "google-deepmind",
+      "gemini-3",
+      "deep-think",
+      "reasoning"
+    ],
+    "short": "Google rolls out Gemini 3 Deep Think mode to Ultra subscribers, emphasizing improved performance on complex reasoning tasks."
+  },
+  {
+    "file": "2025-12-devstral-2.md",
+    "slug": "2025-12-devstral-2",
+    "permalink": "event/2025-12-devstral-2/",
+    "title": "Devstral 2",
+    "date": "2025-12-09",
+    "category": "model-release",
+    "tags": [
+      "mistral",
+      "devstral-2",
+      "coding",
+      "agentic-coding",
+      "tools"
+    ],
+    "short": "Mistral releases Devstral 2, a frontier coding model designed for agentic workflows over real codebases."
+  },
+  {
+    "file": "2025-12-gpt-5-2.md",
+    "slug": "2025-12-gpt-5-2",
+    "permalink": "event/2025-12-gpt-5-2/",
+    "title": "GPT-5.2",
+    "date": "2025-12-11",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-5-2",
+      "long-context",
+      "tool-use",
+      "vision",
+      "reasoning"
+    ],
+    "short": "OpenAI releases GPT-5.2, emphasizing stronger long-context understanding, agentic tool use, and improved real-world task execution."
+  },
+  {
+    "file": "2025-12-gemini-3-flash.md",
+    "slug": "2025-12-gemini-3-flash",
+    "permalink": "event/2025-12-gemini-3-flash/",
+    "title": "Gemini 3 Flash",
+    "date": "2025-12-17",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "google-deepmind",
+      "gemini-3-flash",
+      "speed",
+      "cost-efficient"
+    ],
+    "short": "Google releases Gemini 3 Flash, expanding the Gemini 3 family with a faster model designed for broad product deployment."
+  },
+  {
+    "file": "2025-12-gpt-5-2-codex.md",
+    "slug": "2025-12-gpt-5-2-codex",
+    "permalink": "event/2025-12-gpt-5-2-codex/",
+    "title": "GPT-5.2-Codex",
+    "date": "2025-12-18",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-5-2",
+      "codex",
+      "agentic-coding",
+      "cybersecurity"
+    ],
+    "short": "OpenAI releases GPT-5.2-Codex, an agentic coding model optimized for long-horizon software engineering and defensive cybersecurity."
+  },
+  {
+    "file": "2026-01-cowork-research-preview.md",
+    "slug": "2026-01-cowork-research-preview",
+    "permalink": "event/2026-01-cowork-research-preview/",
+    "title": "Cowork (Research Preview)",
+    "date": "2026-01-12",
+    "category": "product-launch",
+    "tags": [
+      "anthropic",
+      "cowork",
+      "agents",
+      "desktop",
+      "knowledge-work"
+    ],
+    "short": "Anthropic introduces Cowork in research preview, extending Claude Code-style agentic workflows beyond coding to general knowledge work."
+  },
+  {
+    "file": "2026-01-agentic-vision-gemini-3-flash.md",
+    "slug": "2026-01-agentic-vision-gemini-3-flash",
+    "permalink": "event/2026-01-agentic-vision-gemini-3-flash/",
+    "title": "Agentic Vision in Gemini 3 Flash",
+    "date": "2026-01-27",
+    "category": "tool",
+    "tags": [
+      "google",
+      "google-deepmind",
+      "gemini-3-flash",
+      "vision",
+      "code-execution",
+      "agents"
+    ],
+    "short": "Google introduces Agentic Vision in Gemini 3 Flash, enabling step-by-step visual investigation grounded with code execution."
+  },
+  {
+    "file": "2026-02-codex-app.md",
+    "slug": "2026-02-codex-app",
+    "permalink": "event/2026-02-codex-app/",
+    "title": "Codex app for macOS",
+    "date": "2026-02-02",
+    "category": "product-launch",
+    "tags": [
+      "openai",
+      "codex",
+      "macos",
+      "agents",
+      "developer-tools"
+    ],
+    "short": "OpenAI launches the Codex macOS app, positioning it as a command center for managing multiple agents and long-running tasks."
+  },
+  {
+    "file": "2026-02-claude-opus-4-6.md",
+    "slug": "2026-02-claude-opus-4-6",
+    "permalink": "event/2026-02-claude-opus-4-6/",
+    "title": "Claude Opus 4.6",
+    "date": "2026-02-05",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "opus-4-6",
+      "long-context",
+      "coding",
+      "agent-teams"
+    ],
+    "short": "Anthropic releases Claude Opus 4.6, highlighting stronger coding, longer agentic tasks, and a 1M-token context window (beta)."
+  },
+  {
+    "file": "2026-02-gpt-5-3-codex.md",
+    "slug": "2026-02-gpt-5-3-codex",
+    "permalink": "event/2026-02-gpt-5-3-codex/",
+    "title": "GPT-5.3-Codex",
+    "date": "2026-02-05",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-5-3",
+      "codex",
+      "agentic-coding",
+      "computer-use"
+    ],
+    "short": "OpenAI releases GPT-5.3-Codex, extending Codex toward broader computer-based professional workflows beyond code generation."
+  },
+  {
+    "file": "2026-02-openclaw-security-warning-china.md",
+    "slug": "2026-02-openclaw-security-warning-china",
+    "permalink": "event/2026-02-openclaw-security-warning-china/",
+    "title": "China Issues Security Warning on OpenClaw Deployments",
+    "date": "2026-02-05",
+    "category": "regulation",
+    "tags": [
+      "openclaw",
+      "security",
+      "agents",
+      "governance"
+    ],
+    "short": "Chinese authorities issue a warning about security risks tied to OpenClaw deployments, highlighting the governance challenges of fast-growing agent platforms."
+  }
+]
