@@ -1405,5 +1405,49 @@
       "governance"
     ],
     "short": "Chinese authorities issue a warning about security risks tied to OpenClaw deployments, highlighting the governance challenges of fast-growing agent platforms."
+  },
+  {
+    "file": "2026-02-openai-hardware-timeline.md",
+    "slug": "2026-02-openai-hardware-timeline",
+    "permalink": "event/2026-02-openai-hardware-timeline/",
+    "title": "OpenAI clarifies timeline for secret AI hardware device",
+    "date": "2026-02-11",
+    "category": "milestone",
+    "tags": [
+      "OpenAI",
+      "hardware",
+      "AI devices"
+    ],
+    "short": "OpenAI sets launch timeline for its secret AI device in 2027, marking expansion into dedicated hardware."
+  },
+  {
+    "file": "2026-02-glm-5-ai-major-open-source-model.md",
+    "slug": "2026-02-glm-5-ai-major-open-source-model",
+    "permalink": "event/2026-02-glm-5-ai-major-open-source-model/",
+    "title": "Chinese AI startup Zhipu releases flagship model GLM-5",
+    "date": "2026-02-12",
+    "category": "model-release",
+    "tags": [
+      "LLM",
+      "open-source",
+      "Chinese AI",
+      "GLM-5"
+    ],
+    "short": "China’s Zhipu AI unveils GLM-5, a major open-source LLM with enhanced coding and agent capabilities."
+  },
+  {
+    "file": "2026-02-seedance-2-ai-video-model.md",
+    "slug": "2026-02-seedance-2-ai-video-model",
+    "permalink": "event/2026-02-seedance-2-ai-video-model/",
+    "title": "ByteDance unveils Seedance 2.0 — advanced AI video model",
+    "date": "2026-02-12",
+    "category": "model-release",
+    "tags": [
+      "multimodal-ai",
+      "video-generation",
+      "ByteDance",
+      "Seedance-2"
+    ],
+    "short": "ByteDance launches Seedance 2.0, a multimodal AI model that generates cinematic video from text, image, and audio."
   }
 ]
