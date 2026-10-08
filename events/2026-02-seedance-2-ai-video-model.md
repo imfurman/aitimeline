@@ -1,21 +1,22 @@
 ---
-title: "ByteDance unveils Seedance 2.0 — advanced AI video model"
+title: "ByteDance Officially Introduces Seedance 2.0"
 date: 2026-02-12
 category: model-release
-tags: [multimodal-ai, video-generation, ByteDance, Seedance-2]
-short: "ByteDance launches Seedance 2.0, a multimodal AI model that generates cinematic video from text, image, and audio."
+tags: [bytedance, seedance, video-generation, multimodal]
+short: "ByteDance introduces Seedance 2.0, combining text, image, audio, and video references for joint audiovisual generation."
 links:
-  - label: "Official Seedance 2.0 Launch (Reuters)"
-    url: "https://www.reuters.com/business/media-telecom/bytedances-new-ai-video-model-goes-viral-china-looks-second-deepseek-moment-2026-02-12/"
-  - label: "Analysis and Industry Impact"
-    url: "https://finimize.com/content/bytedances-seedance-20-puts-hollywood-style-ai-video-in-reach"
+  - label: "Official announcement"
+    url: "https://seed.bytedance.com/en/blog/seedance-2-0-official-launch"
 ---
 
 ## What Happened
-TikTok parent ByteDance officially launched **Seedance 2.0**, a generative AI model capable of creating high-quality video content using combined text, image, audio, and video prompts.
+
+ByteDance published its official Seedance 2.0 introduction on February 12, 2026. This entry dates the public announcement: the post says the model had launched recently without specifying the first user-access date.
 
 ## Why It Matters
-This represents a step forward in generative video technology, expanding AI beyond text and image to practical cinematic-style content creation for advertising, entertainment, and creative industries.
+
+The release broadens video generation from a single prompt or starting image into a workflow guided by multiple audiovisual references, with editing and continuation capabilities.
 
 ## Technical Details
-Seedance 2.0 supports multimodal inputs and produces coherent multi-scene outputs with improved efficiency versus predecessors.
+
+The announced model jointly generates audio and video. Inputs can combine text with up to nine images, three video clips, and three audio clips. ByteDance describes multi-shot output up to 15 seconds, stereo audio, targeted editing, and video extension. Its performance comparisons are developer evaluations, and the announcement acknowledges remaining artifacts and consistency limitations.

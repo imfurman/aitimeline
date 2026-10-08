@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Decoupled DiLoCo for Resilient Distributed Pre-training (2026) | AI Timeline</title>
+  <meta name="description" content="Google DeepMind introduces asynchronous training across independent compute groups to isolate failures and reduce synchronization stalls.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://aitimeline.live/event/2026-04-decoupled-diloco/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Decoupled DiLoCo for Resilient Distributed Pre-training (2026) | AI Timeline">
+  <meta property="og:description" content="Google DeepMind introduces asynchronous training across independent compute groups to isolate failures and reduce synchronization stalls.">
+  <meta property="og:url" content="https://aitimeline.live/event/2026-04-decoupled-diloco/">
+  <meta property="og:site_name" content="AI Timeline">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Decoupled DiLoCo for Resilient Distributed Pre-training (2026) | AI Timeline">
+  <meta name="twitter:description" content="Google DeepMind introduces asynchronous training across independent compute groups to isolate failures and reduce synchronization stalls.">
+  <link rel="stylesheet" href="../../css/style.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Decoupled DiLoCo for Resilient Distributed Pre-training","description":"Google DeepMind introduces asynchronous training across independent compute groups to isolate failures and reduce synchronization stalls.","datePublished":"2026-04-23","dateModified":"2026-04-23","mainEntityOfPage":"https://aitimeline.live/event/2026-04-decoupled-diloco/","author":{"@type":"Organization","name":"AI Timeline Contributors"},"publisher":{"@type":"Organization","name":"AI Timeline"},"articleSection":"Architecture","keywords":"google-deepmind, distributed-training, diloco, fault-tolerance"}</script>
+</head>
+<body class="event-page">
+  <header class="hero event-hero">
+    <div class="hero-content">
+      <a class="event-back-link" href="../../">Back to timeline</a>
+      <h1>Decoupled DiLoCo for Resilient Distributed Pre-training</h1>
+      <p>Google DeepMind introduces asynchronous training across independent compute groups to isolate failures and reduce synchronization stalls.</p>
+      <p class="event-page-meta"><time datetime="2026-04-23">April 23, 2026</time> <span>Architecture</span></p>
+    </div>
+  </header>
+  <main class="event-main">
+    <article class="event-article">
+      <h2>What Happened</h2>
+<p>Google DeepMind published Decoupled DiLoCo and its paper on April 23, 2026. The framework divides large training jobs into independent learner groups that communicate asynchronously, allowing unaffected groups to continue when others fail or slow down.</p>
+<h2>Why It Matters</h2>
+<p>Global synchronization becomes increasingly expensive and fragile as training infrastructure grows. Decoupled DiLoCo offers a route toward more resilient training across distant data centers and heterogeneous operating conditions, without requiring every accelerator to progress in lockstep.</p>
+<h2>Technical Details</h2>
+<p>Building on Pathways and DiLoCo, learners perform local optimization and send parameter fragments to a synchronizer. A minimum quorum, adaptive grace window and token-weighted merging accommodate stragglers. The authors evaluate dense and mixture-of-experts models across text and vision tasks. Their million-chip results come from failure simulations, which reported no global downtime; they should not be interpreted as a production training run on a million physical chips.</p>
+      
+      <section class="event-source-links" aria-label="Source links">
+        <h2>Sources</h2>
+        <ul>
+          <li><a href="https://deepmind.google/blog/decoupled-diloco/" target="_blank" rel="noopener noreferrer">Official announcement</a></li><li><a href="https://arxiv.org/abs/2604.21428" target="_blank" rel="noopener noreferrer">Research paper</a></li>
+        </ul>
+      </section>
+    </article>
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>AI Timeline is a public, continuously updated reference for key AI model launches, research milestones, and product breakthroughs.</p>
+    <div class="footer-links">
+      <a href="../../">Timeline</a>
+      <a href="../../CONTRIBUTING.md">Contribute</a>
+      <a href="../../sitemap.xml">Sitemap</a>
+    </div>
+  </footer>
+</body>
+</html>

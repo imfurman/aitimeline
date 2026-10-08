@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DeepSeek V4.1 Flash (2026) | AI Timeline</title>
+  <meta name="description" content="DeepSeek launches V4.1 Flash with native vision and an asymmetric architecture designed to reduce long-context serving costs.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://aitimeline.live/event/2026-09-deepseek-v4-1-flash/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="DeepSeek V4.1 Flash (2026) | AI Timeline">
+  <meta property="og:description" content="DeepSeek launches V4.1 Flash with native vision and an asymmetric architecture designed to reduce long-context serving costs.">
+  <meta property="og:url" content="https://aitimeline.live/event/2026-09-deepseek-v4-1-flash/">
+  <meta property="og:site_name" content="AI Timeline">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="DeepSeek V4.1 Flash (2026) | AI Timeline">
+  <meta name="twitter:description" content="DeepSeek launches V4.1 Flash with native vision and an asymmetric architecture designed to reduce long-context serving costs.">
+  <link rel="stylesheet" href="../../css/style.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"DeepSeek V4.1 Flash","description":"DeepSeek launches V4.1 Flash with native vision and an asymmetric architecture designed to reduce long-context serving costs.","datePublished":"2026-09-10","dateModified":"2026-09-10","mainEntityOfPage":"https://aitimeline.live/event/2026-09-deepseek-v4-1-flash/","author":{"@type":"Organization","name":"AI Timeline Contributors"},"publisher":{"@type":"Organization","name":"AI Timeline"},"articleSection":"Model Release","keywords":"deepseek, encoder-decoder, multimodal, kv-cache, open-weights"}</script>
+</head>
+<body class="event-page">
+  <header class="hero event-hero">
+    <div class="hero-content">
+      <a class="event-back-link" href="../../">Back to timeline</a>
+      <h1>DeepSeek V4.1 Flash</h1>
+      <p>DeepSeek launches V4.1 Flash with native vision and an asymmetric architecture designed to reduce long-context serving costs.</p>
+      <p class="event-page-meta"><time datetime="2026-09-10">September 10, 2026</time> <span>Model Release</span></p>
+    </div>
+  </header>
+  <main class="event-main">
+    <article class="event-article">
+      <h2>What Happened</h2>
+<p>DeepSeek launched V4.1 Flash through its API on September 10, 2026. The technical report followed later. The official model repository confirms downloadable weights under MIT; this entry uses the API launch date without assuming that every research artifact appeared simultaneously.</p>
+<h2>Why It Matters</h2>
+<p>V4.1 Flash introduced a notable departure from uniform decoder-only processing. Separating the computation used to ingest context from the computation used to generate output targets input-heavy agents, whose growing histories can make memory and prefill costs dominant.</p>
+<h2>Technical Details</h2>
+<p>The model has a 552-billion-parameter backbone, native image and text input, and context support up to one million tokens. Its Causal Encoder-Decoder uses 20 encoder and 20 decoder layers, activating eight billion parameters during prefill and 16 billion during decoding. Shared and compressed key-value state reduces cache requirements. Additional conditional-memory components mean the backbone count should not be mistaken for the entire stored checkpoint.</p>
+      
+      <section class="event-source-links" aria-label="Source links">
+        <h2>Sources</h2>
+        <ul>
+          <li><a href="https://deepseek.com/en/news/deepseek-v4-1-flash/" target="_blank" rel="noopener noreferrer">Official announcement</a></li><li><a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash" target="_blank" rel="noopener noreferrer">Official model repository</a></li>
+        </ul>
+      </section>
+    </article>
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>AI Timeline is a public, continuously updated reference for key AI model launches, research milestones, and product breakthroughs.</p>
+    <div class="footer-links">
+      <a href="../../">Timeline</a>
+      <a href="../../CONTRIBUTING.md">Contribute</a>
+      <a href="../../sitemap.xml">Sitemap</a>
+    </div>
+  </footer>
+</body>
+</html>

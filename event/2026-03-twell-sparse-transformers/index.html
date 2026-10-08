@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TwELL: Hardware-Efficient Sparse Transformer Computation (2026) | AI Timeline</title>
+  <meta name="description" content="Sakana AI and NVIDIA introduce TwELL storage and CUDA kernels that turn sparse transformer activations into practical efficiency gains.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://aitimeline.live/event/2026-03-twell-sparse-transformers/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="TwELL: Hardware-Efficient Sparse Transformer Computation (2026) | AI Timeline">
+  <meta property="og:description" content="Sakana AI and NVIDIA introduce TwELL storage and CUDA kernels that turn sparse transformer activations into practical efficiency gains.">
+  <meta property="og:url" content="https://aitimeline.live/event/2026-03-twell-sparse-transformers/">
+  <meta property="og:site_name" content="AI Timeline">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="TwELL: Hardware-Efficient Sparse Transformer Computation (2026) | AI Timeline">
+  <meta name="twitter:description" content="Sakana AI and NVIDIA introduce TwELL storage and CUDA kernels that turn sparse transformer activations into practical efficiency gains.">
+  <link rel="stylesheet" href="../../css/style.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"TwELL: Hardware-Efficient Sparse Transformer Computation","description":"Sakana AI and NVIDIA introduce TwELL storage and CUDA kernels that turn sparse transformer activations into practical efficiency gains.","datePublished":"2026-03-24","dateModified":"2026-03-24","mainEntityOfPage":"https://aitimeline.live/event/2026-03-twell-sparse-transformers/","author":{"@type":"Organization","name":"AI Timeline Contributors"},"publisher":{"@type":"Organization","name":"AI Timeline"},"articleSection":"Architecture","keywords":"sakana-ai, nvidia, sparsity, transformer, gpu-kernels"}</script>
+</head>
+<body class="event-page">
+  <header class="hero event-hero">
+    <div class="hero-content">
+      <a class="event-back-link" href="../../">Back to timeline</a>
+      <h1>TwELL: Hardware-Efficient Sparse Transformer Computation</h1>
+      <p>Sakana AI and NVIDIA introduce TwELL storage and CUDA kernels that turn sparse transformer activations into practical efficiency gains.</p>
+      <p class="event-page-meta"><time datetime="2026-03-24">March 24, 2026</time> <span>Architecture</span></p>
+    </div>
+  </header>
+  <main class="event-main">
+    <article class="event-article">
+      <h2>What Happened</h2>
+<p>Sakana AI and NVIDIA researchers submitted their sparse-transformer paper on March 24, 2026. A later Sakana announcement appeared on May 9. The work introduces Tile-wise ELLPACK, or TwELL, and specialized CUDA kernels for exploiting sparse feed-forward activations.</p>
+<h2>Why It Matters</h2>
+<p>Removing arithmetic does not automatically make GPU execution faster: irregular memory access can erase the benefit. TwELL addresses this hardware mismatch, making activation sparsity a more practical option for reducing transformer computation and training memory.</p>
+<h2>Technical Details</h2>
+<p>TwELL packs nonzero activations within tiles suited to GPU execution. A hybrid representation handles sparse rows compactly while preserving a dense fallback for unusually active rows. The authors evaluate billion-parameter models trained with ReLU-based activations and sparsity regularization, reporting throughput and memory improvements. These findings concern their training recipe and kernels; they do not establish a drop-in speedup for every existing language model.</p>
+      
+      <section class="event-source-links" aria-label="Source links">
+        <h2>Sources</h2>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2603.23198" target="_blank" rel="noopener noreferrer">Research paper</a></li><li><a href="https://pub.sakana.ai/sparser-faster-llms/" target="_blank" rel="noopener noreferrer">Author technical blog</a></li><li><a href="https://sakana.ai/twell/" target="_blank" rel="noopener noreferrer">Official announcement</a></li>
+        </ul>
+      </section>
+    </article>
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>AI Timeline is a public, continuously updated reference for key AI model launches, research milestones, and product breakthroughs.</p>
+    <div class="footer-links">
+      <a href="../../">Timeline</a>
+      <a href="../../CONTRIBUTING.md">Contribute</a>
+      <a href="../../sitemap.xml">Sitemap</a>
+    </div>
+  </footer>
+</body>
+</html>

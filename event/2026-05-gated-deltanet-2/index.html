@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gated DeltaNet-2 Decouples Memory Erasing and Writing (2026) | AI Timeline</title>
+  <meta name="description" content="Gated DeltaNet-2 introduces separate channel-wise erase and write gates for more expressive recurrent memory updates.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://aitimeline.live/event/2026-05-gated-deltanet-2/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Gated DeltaNet-2 Decouples Memory Erasing and Writing (2026) | AI Timeline">
+  <meta property="og:description" content="Gated DeltaNet-2 introduces separate channel-wise erase and write gates for more expressive recurrent memory updates.">
+  <meta property="og:url" content="https://aitimeline.live/event/2026-05-gated-deltanet-2/">
+  <meta property="og:site_name" content="AI Timeline">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Gated DeltaNet-2 Decouples Memory Erasing and Writing (2026) | AI Timeline">
+  <meta name="twitter:description" content="Gated DeltaNet-2 introduces separate channel-wise erase and write gates for more expressive recurrent memory updates.">
+  <link rel="stylesheet" href="../../css/style.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"Gated DeltaNet-2 Decouples Memory Erasing and Writing","description":"Gated DeltaNet-2 introduces separate channel-wise erase and write gates for more expressive recurrent memory updates.","datePublished":"2026-05-21","dateModified":"2026-05-21","mainEntityOfPage":"https://aitimeline.live/event/2026-05-gated-deltanet-2/","author":{"@type":"Organization","name":"AI Timeline Contributors"},"publisher":{"@type":"Organization","name":"AI Timeline"},"articleSection":"Architecture","keywords":"nvidia, linear-attention, recurrent-models, memory"}</script>
+</head>
+<body class="event-page">
+  <header class="hero event-hero">
+    <div class="hero-content">
+      <a class="event-back-link" href="../../">Back to timeline</a>
+      <h1>Gated DeltaNet-2 Decouples Memory Erasing and Writing</h1>
+      <p>Gated DeltaNet-2 introduces separate channel-wise erase and write gates for more expressive recurrent memory updates.</p>
+      <p class="event-page-meta"><time datetime="2026-05-21">May 21, 2026</time> <span>Architecture</span></p>
+    </div>
+  </header>
+  <main class="event-main">
+    <article class="event-article">
+      <h2>What Happened</h2>
+<p>Researchers published Gated DeltaNet-2 on May 21, 2026, alongside its official implementation. The architecture separates decisions about erasing existing associations and writing new information into recurrent memory.</p>
+<h2>Why It Matters</h2>
+<p>Linear-attention models compress history into a fixed-size state, making selective memory updates especially important. Gated DeltaNet-2 develops this alternative to a growing transformer KV cache while retaining efficient parallel training methods.</p>
+<h2>Technical Details</h2>
+<p>The update combines channel-wise decay with independent channel-wise erase and write gates, generalizing earlier Gated DeltaNet and Kimi Delta Attention formulations. The authors compare recurrent and hybrid models at 1.3 billion parameters, trained on 100 billion FineWeb-Edu tokens with matched state sizes. They report improvements in language modeling and retrieval within that experimental setting. The implementation uses NVIDIA&#39;s noncommercial source-code license, so public availability should not be confused with unrestricted open-source licensing or permission for commercial use.</p>
+      
+      <section class="event-source-links" aria-label="Source links">
+        <h2>Sources</h2>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2605.22791" target="_blank" rel="noopener noreferrer">Research paper</a></li><li><a href="https://github.com/NVlabs/GatedDeltaNet-2" target="_blank" rel="noopener noreferrer">Official repository</a></li>
+        </ul>
+      </section>
+    </article>
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>AI Timeline is a public, continuously updated reference for key AI model launches, research milestones, and product breakthroughs.</p>
+    <div class="footer-links">
+      <a href="../../">Timeline</a>
+      <a href="../../CONTRIBUTING.md">Contribute</a>
+      <a href="../../sitemap.xml">Sitemap</a>
+    </div>
+  </footer>
+</body>
+</html>

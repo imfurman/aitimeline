@@ -1407,6 +1407,38 @@
     "short": "Chinese authorities issue a warning about security risks tied to OpenClaw deployments, highlighting the governance challenges of fast-growing agent platforms."
   },
   {
+    "file": "2026-02-aletheia-autonomous-mathematics.md",
+    "slug": "2026-02-aletheia-autonomous-mathematics",
+    "permalink": "event/2026-02-aletheia-autonomous-mathematics/",
+    "title": "Aletheia: Towards Autonomous Mathematics Research",
+    "date": "2026-02-10",
+    "category": "research",
+    "tags": [
+      "google-deepmind",
+      "aletheia",
+      "mathematics",
+      "agents",
+      "verification"
+    ],
+    "short": "Google researchers publish Aletheia, an agent that generates, verifies and revises solutions to research-level mathematics problems."
+  },
+  {
+    "file": "2026-02-glm-5-ai-major-open-source-model.md",
+    "slug": "2026-02-glm-5-ai-major-open-source-model",
+    "permalink": "event/2026-02-glm-5-ai-major-open-source-model/",
+    "title": "GLM-5",
+    "date": "2026-02-11",
+    "category": "model-release",
+    "tags": [
+      "z-ai",
+      "glm",
+      "open-weights",
+      "agents",
+      "sparse-attention"
+    ],
+    "short": "Z.ai releases GLM-5, an open-weight model built for complex software engineering and long-horizon agent tasks."
+  },
+  {
     "file": "2026-02-openai-hardware-timeline.md",
     "slug": "2026-02-openai-hardware-timeline",
     "permalink": "event/2026-02-openai-hardware-timeline/",
@@ -1421,33 +1453,872 @@
     "short": "OpenAI sets launch timeline for its secret AI device in 2027, marking expansion into dedicated hardware."
   },
   {
-    "file": "2026-02-glm-5-ai-major-open-source-model.md",
-    "slug": "2026-02-glm-5-ai-major-open-source-model",
-    "permalink": "event/2026-02-glm-5-ai-major-open-source-model/",
-    "title": "Chinese AI startup Zhipu releases flagship model GLM-5",
+    "file": "2026-02-gpt-5-3-codex-spark.md",
+    "slug": "2026-02-gpt-5-3-codex-spark",
+    "permalink": "event/2026-02-gpt-5-3-codex-spark/",
+    "title": "GPT-5.3-Codex-Spark Research Preview",
     "date": "2026-02-12",
     "category": "model-release",
     "tags": [
-      "LLM",
-      "open-source",
-      "Chinese AI",
-      "GLM-5"
+      "openai",
+      "codex",
+      "cerebras",
+      "low-latency"
     ],
-    "short": "China’s Zhipu AI unveils GLM-5, a major open-source LLM with enhanced coding and agent capabilities."
+    "short": "OpenAI previews Codex-Spark, a text-only coding model served on Cerebras hardware for low-latency interaction."
   },
   {
     "file": "2026-02-seedance-2-ai-video-model.md",
     "slug": "2026-02-seedance-2-ai-video-model",
     "permalink": "event/2026-02-seedance-2-ai-video-model/",
-    "title": "ByteDance unveils Seedance 2.0 — advanced AI video model",
+    "title": "ByteDance Officially Introduces Seedance 2.0",
     "date": "2026-02-12",
     "category": "model-release",
     "tags": [
-      "multimodal-ai",
+      "bytedance",
+      "seedance",
       "video-generation",
-      "ByteDance",
-      "Seedance-2"
+      "multimodal"
     ],
-    "short": "ByteDance launches Seedance 2.0, a multimodal AI model that generates cinematic video from text, image, and audio."
+    "short": "ByteDance introduces Seedance 2.0, combining text, image, audio, and video references for joint audiovisual generation."
+  },
+  {
+    "file": "2026-02-un-scientific-ai-panel-appointments.md",
+    "slug": "2026-02-un-scientific-ai-panel-appointments",
+    "permalink": "event/2026-02-un-scientific-ai-panel-appointments/",
+    "title": "UN Appoints Its Independent International Scientific Panel on AI",
+    "date": "2026-02-12",
+    "category": "milestone",
+    "tags": [
+      "united-nations",
+      "ai-governance",
+      "science-policy"
+    ],
+    "short": "The UN General Assembly appoints 40 experts to its independent scientific panel on AI."
+  },
+  {
+    "file": "2026-02-qwen3-5.md",
+    "slug": "2026-02-qwen3-5",
+    "permalink": "event/2026-02-qwen3-5/",
+    "title": "Qwen3.5",
+    "date": "2026-02-16",
+    "category": "model-release",
+    "tags": [
+      "alibaba",
+      "qwen",
+      "multimodal",
+      "open-weights",
+      "hybrid-attention"
+    ],
+    "short": "Alibaba releases Qwen3.5, combining native vision-language modeling with hybrid attention and sparse experts."
+  },
+  {
+    "file": "2026-02-gemini-3-1-pro.md",
+    "slug": "2026-02-gemini-3-1-pro",
+    "permalink": "event/2026-02-gemini-3-1-pro/",
+    "title": "Gemini 3.1 Pro Preview",
+    "date": "2026-02-19",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "gemini",
+      "reasoning",
+      "multimodal"
+    ],
+    "short": "Google releases Gemini 3.1 Pro in preview and begins rolling it out across consumer and developer products."
+  },
+  {
+    "file": "2026-02-perplexity-computer.md",
+    "slug": "2026-02-perplexity-computer",
+    "permalink": "event/2026-02-perplexity-computer/",
+    "title": "Perplexity Computer Launches",
+    "date": "2026-02-25",
+    "category": "product-launch",
+    "tags": [
+      "perplexity",
+      "agents",
+      "workflow-automation"
+    ],
+    "short": "Perplexity launches Computer for Max subscribers to execute long-running workflows across apps, files, and the web."
+  },
+  {
+    "file": "2026-03-flashattention-4-paper.md",
+    "slug": "2026-03-flashattention-4-paper",
+    "permalink": "event/2026-03-flashattention-4-paper/",
+    "title": "FlashAttention-4 Paper and FlexAttention Integration",
+    "date": "2026-03-05",
+    "category": "tool",
+    "tags": [
+      "flashattention",
+      "gpu-kernels",
+      "pytorch",
+      "blackwell",
+      "efficiency"
+    ],
+    "short": "FlashAttention-4's technical paper and PyTorch integration describe attention kernels optimized for modern GPU bottlenecks."
+  },
+  {
+    "file": "2026-03-gpt-5-4.md",
+    "slug": "2026-03-gpt-5-4",
+    "permalink": "event/2026-03-gpt-5-4/",
+    "title": "GPT-5.4",
+    "date": "2026-03-05",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt",
+      "computer-use",
+      "agents"
+    ],
+    "short": "OpenAI releases GPT-5.4, combining general reasoning, coding, and native computer use in one model."
+  },
+  {
+    "file": "2026-03-nemotron-3-super.md",
+    "slug": "2026-03-nemotron-3-super",
+    "permalink": "event/2026-03-nemotron-3-super/",
+    "title": "NVIDIA Nemotron 3 Super",
+    "date": "2026-03-11",
+    "category": "model-release",
+    "tags": [
+      "nvidia",
+      "nemotron",
+      "mamba",
+      "mixture-of-experts",
+      "open-weights"
+    ],
+    "short": "NVIDIA releases Nemotron 3 Super with hybrid Mamba-attention architecture, open weights and training resources."
+  },
+  {
+    "file": "2026-03-mistral-small-4.md",
+    "slug": "2026-03-mistral-small-4",
+    "permalink": "event/2026-03-mistral-small-4/",
+    "title": "Mistral Small 4",
+    "date": "2026-03-16",
+    "category": "model-release",
+    "tags": [
+      "mistral",
+      "multimodal",
+      "reasoning",
+      "open-weights",
+      "mixture-of-experts"
+    ],
+    "short": "Mistral releases Small 4, unifying instruction following, reasoning, visual input and agentic coding under Apache 2.0."
+  },
+  {
+    "file": "2026-03-voxtral-tts.md",
+    "slug": "2026-03-voxtral-tts",
+    "permalink": "event/2026-03-voxtral-tts/",
+    "title": "Voxtral TTS",
+    "date": "2026-03-23",
+    "category": "model-release",
+    "tags": [
+      "mistral",
+      "voxtral",
+      "speech-generation",
+      "open-weights"
+    ],
+    "short": "Mistral launches Voxtral TTS and publishes a reference-voice model under the noncommercial CC BY-NC 4.0 license."
+  },
+  {
+    "file": "2026-03-twell-sparse-transformers.md",
+    "slug": "2026-03-twell-sparse-transformers",
+    "permalink": "event/2026-03-twell-sparse-transformers/",
+    "title": "TwELL: Hardware-Efficient Sparse Transformer Computation",
+    "date": "2026-03-24",
+    "category": "architecture",
+    "tags": [
+      "sakana-ai",
+      "nvidia",
+      "sparsity",
+      "transformer",
+      "gpu-kernels"
+    ],
+    "short": "Sakana AI and NVIDIA introduce TwELL storage and CUDA kernels that turn sparse transformer activations into practical efficiency gains."
+  },
+  {
+    "file": "2026-04-gemma-4.md",
+    "slug": "2026-04-gemma-4",
+    "permalink": "event/2026-04-gemma-4/",
+    "title": "Gemma 4",
+    "date": "2026-04-02",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "gemma",
+      "open-weights",
+      "multimodal",
+      "on-device"
+    ],
+    "short": "Google releases Gemma 4 in four sizes, with multimodal inputs, reasoning capabilities and Apache 2.0 model weights."
+  },
+  {
+    "file": "2026-04-claude-mythos-preview-glasswing.md",
+    "slug": "2026-04-claude-mythos-preview-glasswing",
+    "permalink": "event/2026-04-claude-mythos-preview-glasswing/",
+    "title": "Claude Mythos Preview and Project Glasswing",
+    "date": "2026-04-07",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "cybersecurity",
+      "mythos",
+      "restricted-access"
+    ],
+    "short": "Anthropic announces Mythos Preview with restricted access through the defensive-security initiative Project Glasswing."
+  },
+  {
+    "file": "2026-04-claude-managed-agents.md",
+    "slug": "2026-04-claude-managed-agents",
+    "permalink": "event/2026-04-claude-managed-agents/",
+    "title": "Claude Managed Agents Enters Public Beta",
+    "date": "2026-04-08",
+    "category": "tool",
+    "tags": [
+      "anthropic",
+      "claude",
+      "agents",
+      "managed-runtime"
+    ],
+    "short": "Anthropic releases Claude Managed Agents in public beta, providing hosted infrastructure for long-running agents."
+  },
+  {
+    "file": "2026-04-muse-spark.md",
+    "slug": "2026-04-muse-spark",
+    "permalink": "event/2026-04-muse-spark/",
+    "title": "Meta Muse Spark",
+    "date": "2026-04-08",
+    "category": "model-release",
+    "tags": [
+      "meta",
+      "muse",
+      "multimodal",
+      "reasoning",
+      "agents"
+    ],
+    "short": "Meta launches Muse Spark in Meta AI, introducing its new multimodal reasoning family and a private API preview."
+  },
+  {
+    "file": "2026-04-china-ai-emotional-companion-rules.md",
+    "slug": "2026-04-china-ai-emotional-companion-rules",
+    "permalink": "event/2026-04-china-ai-emotional-companion-rules/",
+    "title": "China Issues Rules for AI Emotional Companions",
+    "date": "2026-04-10",
+    "category": "regulation",
+    "tags": [
+      "china",
+      "ai-companions",
+      "child-safety"
+    ],
+    "short": "China issues national rules governing persistent emotional interaction with anthropomorphic AI services."
+  },
+  {
+    "file": "2026-04-pi07-steerable-robot-foundation-model.md",
+    "slug": "2026-04-pi07-steerable-robot-foundation-model",
+    "permalink": "event/2026-04-pi07-steerable-robot-foundation-model/",
+    "title": "Physical Intelligence presents pi0.7, a steerable robot foundation model",
+    "date": "2026-04-16",
+    "category": "research",
+    "tags": [
+      "robotics",
+      "physical-intelligence",
+      "vla",
+      "generalization"
+    ],
+    "short": "Physical Intelligence presents pi0.7, using richer context to steer robot behavior and transfer skills across embodiments."
+  },
+  {
+    "file": "2026-04-chatgpt-images-2-0.md",
+    "slug": "2026-04-chatgpt-images-2-0",
+    "permalink": "event/2026-04-chatgpt-images-2-0/",
+    "title": "ChatGPT Images 2.0 and Thinking Mode",
+    "date": "2026-04-21",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "image-generation",
+      "reasoning",
+      "tool-use"
+    ],
+    "short": "OpenAI launches ChatGPT Images 2.0 with a thinking mode that brings reasoning and tools into image generation."
+  },
+  {
+    "file": "2026-04-decoupled-diloco.md",
+    "slug": "2026-04-decoupled-diloco",
+    "permalink": "event/2026-04-decoupled-diloco/",
+    "title": "Decoupled DiLoCo for Resilient Distributed Pre-training",
+    "date": "2026-04-23",
+    "category": "architecture",
+    "tags": [
+      "google-deepmind",
+      "distributed-training",
+      "diloco",
+      "fault-tolerance"
+    ],
+    "short": "Google DeepMind introduces asynchronous training across independent compute groups to isolate failures and reduce synchronization stalls."
+  },
+  {
+    "file": "2026-04-gpt-5-5.md",
+    "slug": "2026-04-gpt-5-5",
+    "permalink": "event/2026-04-gpt-5-5/",
+    "title": "GPT-5.5",
+    "date": "2026-04-23",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt",
+      "agentic-coding",
+      "computer-use"
+    ],
+    "short": "OpenAI starts rolling out GPT-5.5 for coding, computer use, knowledge work, and scientific workflows."
+  },
+  {
+    "file": "2026-04-deepseek-v4-preview.md",
+    "slug": "2026-04-deepseek-v4-preview",
+    "permalink": "event/2026-04-deepseek-v4-preview/",
+    "title": "DeepSeek V4 Preview",
+    "date": "2026-04-24",
+    "category": "model-release",
+    "tags": [
+      "deepseek",
+      "open-weights",
+      "sparse-attention",
+      "long-context",
+      "agents"
+    ],
+    "short": "DeepSeek releases V4 Pro and Flash previews with downloadable weights and one-million-token context support."
+  },
+  {
+    "file": "2026-05-gemini-3-5-flash.md",
+    "slug": "2026-05-gemini-3-5-flash",
+    "permalink": "event/2026-05-gemini-3-5-flash/",
+    "title": "Gemini 3.5 Flash",
+    "date": "2026-05-19",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "gemini",
+      "agents",
+      "coding"
+    ],
+    "short": "Google launches Gemini 3.5 Flash and makes it the default in Gemini and AI Mode in Search."
+  },
+  {
+    "file": "2026-05-gemini-omni-flash.md",
+    "slug": "2026-05-gemini-omni-flash",
+    "permalink": "event/2026-05-gemini-omni-flash/",
+    "title": "Gemini Omni Flash",
+    "date": "2026-05-19",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "gemini",
+      "video-generation",
+      "multimodal"
+    ],
+    "short": "Google begins rolling out Omni Flash, combining multimodal inputs with conversational video generation and editing."
+  },
+  {
+    "file": "2026-05-gemini-spark-announcement.md",
+    "slug": "2026-05-gemini-spark-announcement",
+    "permalink": "event/2026-05-gemini-spark-announcement/",
+    "title": "Google Announces Gemini Spark",
+    "date": "2026-05-19",
+    "category": "product-launch",
+    "tags": [
+      "google",
+      "gemini",
+      "agents",
+      "antigravity"
+    ],
+    "short": "Google announces Gemini Spark, a persistent personal agent built on Gemini 3.5 and the Antigravity harness."
+  },
+  {
+    "file": "2026-05-gated-deltanet-2.md",
+    "slug": "2026-05-gated-deltanet-2",
+    "permalink": "event/2026-05-gated-deltanet-2/",
+    "title": "Gated DeltaNet-2 Decouples Memory Erasing and Writing",
+    "date": "2026-05-21",
+    "category": "architecture",
+    "tags": [
+      "nvidia",
+      "linear-attention",
+      "recurrent-models",
+      "memory"
+    ],
+    "short": "Gated DeltaNet-2 introduces separate channel-wise erase and write gates for more expressive recurrent memory updates."
+  },
+  {
+    "file": "2026-05-biohub-esmfold2-esm-atlas.md",
+    "slug": "2026-05-biohub-esmfold2-esm-atlas",
+    "permalink": "event/2026-05-biohub-esmfold2-esm-atlas/",
+    "title": "Biohub Releases ESMFold2 and the Expanded ESM Atlas",
+    "date": "2026-05-27",
+    "category": "milestone",
+    "tags": [
+      "biohub",
+      "esm",
+      "protein-design",
+      "biology",
+      "datasets"
+    ],
+    "short": "Biohub releases protein modeling tools and an ESM Atlas spanning 6.8 billion sequences and 1.1 billion predicted structures."
+  },
+  {
+    "file": "2026-06-minimax-m3.md",
+    "slug": "2026-06-minimax-m3",
+    "permalink": "event/2026-06-minimax-m3/",
+    "title": "MiniMax M3",
+    "date": "2026-06-01",
+    "category": "model-release",
+    "tags": [
+      "minimax",
+      "multimodal",
+      "sparse-attention",
+      "agents",
+      "long-context"
+    ],
+    "short": "MiniMax launches M3 with native image and video input, agentic workflows and a one-million-token context window."
+  },
+  {
+    "file": "2026-06-us-frontier-ai-cybersecurity-order.md",
+    "slug": "2026-06-us-frontier-ai-cybersecurity-order",
+    "permalink": "event/2026-06-us-frontier-ai-cybersecurity-order/",
+    "title": "US Orders Frontier AI Cybersecurity Assessments and Voluntary Early Access",
+    "date": "2026-06-02",
+    "category": "regulation",
+    "tags": [
+      "united-states",
+      "frontier-models",
+      "cybersecurity"
+    ],
+    "short": "Executive Order 14409 directs frontier-model cyber assessments and a voluntary government early-access framework."
+  },
+  {
+    "file": "2026-06-claude-fable-mythos-5.md",
+    "slug": "2026-06-claude-fable-mythos-5",
+    "permalink": "event/2026-06-claude-fable-mythos-5/",
+    "title": "Claude Fable 5 and Mythos 5",
+    "date": "2026-06-09",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "agents",
+      "cybersecurity"
+    ],
+    "short": "Anthropic launches Fable 5 for general use and Mythos 5 with restricted access, sharing one underlying model."
+  },
+  {
+    "file": "2026-06-glm-5-2.md",
+    "slug": "2026-06-glm-5-2",
+    "permalink": "event/2026-06-glm-5-2/",
+    "title": "GLM-5.2",
+    "date": "2026-06-16",
+    "category": "model-release",
+    "tags": [
+      "z-ai",
+      "glm",
+      "long-context",
+      "sparse-attention",
+      "open-weights"
+    ],
+    "short": "Z.ai launches GLM-5.2 with one-million-token context and IndexShare for more efficient sparse attention."
+  },
+  {
+    "file": "2026-06-eu-ai-act-omnibus-amendments.md",
+    "slug": "2026-06-eu-ai-act-omnibus-amendments",
+    "permalink": "event/2026-06-eu-ai-act-omnibus-amendments/",
+    "title": "EU Adopts AI Act Amendments and Delays High-Risk Requirements",
+    "date": "2026-06-29",
+    "category": "regulation",
+    "tags": [
+      "european-union",
+      "ai-act",
+      "ai-governance"
+    ],
+    "short": "The EU adopts AI Act amendments postponing high-risk requirements and adding a prohibition on sexual deepfake systems."
+  },
+  {
+    "file": "2026-07-chatgpt-work.md",
+    "slug": "2026-07-chatgpt-work",
+    "permalink": "event/2026-07-chatgpt-work/",
+    "title": "OpenAI Launches ChatGPT Work",
+    "date": "2026-07-09",
+    "category": "product-launch",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "agents",
+      "knowledge-work"
+    ],
+    "short": "OpenAI launches ChatGPT Work, extending agentic execution across apps, files, and finished workplace deliverables."
+  },
+  {
+    "file": "2026-07-gpt-5-6.md",
+    "slug": "2026-07-gpt-5-6",
+    "permalink": "event/2026-07-gpt-5-6/",
+    "title": "GPT-5.6: Sol, Terra, and Luna",
+    "date": "2026-07-09",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt",
+      "multi-agent",
+      "reasoning"
+    ],
+    "short": "OpenAI makes the GPT-5.6 family generally available after a limited preview, with Sol, Terra, and Luna models."
+  },
+  {
+    "file": "2026-07-kimi-k3.md",
+    "slug": "2026-07-kimi-k3",
+    "permalink": "event/2026-07-kimi-k3/",
+    "title": "Kimi K3",
+    "date": "2026-07-16",
+    "category": "model-release",
+    "tags": [
+      "moonshot-ai",
+      "kimi",
+      "open-weights",
+      "multimodal",
+      "attention-residuals"
+    ],
+    "short": "Moonshot launches Kimi K3, a 2.8-trillion-parameter multimodal model; its weights follow on July 27."
+  },
+  {
+    "file": "2026-07-claude-opus-5.md",
+    "slug": "2026-07-claude-opus-5",
+    "permalink": "event/2026-07-claude-opus-5/",
+    "title": "Claude Opus 5",
+    "date": "2026-07-24",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "agents",
+      "science"
+    ],
+    "short": "Anthropic releases Opus 5, bringing its new model generation to everyday coding and knowledge work."
+  },
+  {
+    "file": "2026-07-gemini-robotics-2.md",
+    "slug": "2026-07-gemini-robotics-2",
+    "permalink": "event/2026-07-gemini-robotics-2/",
+    "title": "Google DeepMind introduces Gemini Robotics 2",
+    "date": "2026-07-30",
+    "category": "model-release",
+    "tags": [
+      "google-deepmind",
+      "robotics",
+      "vla",
+      "embodied-ai"
+    ],
+    "short": "Gemini Robotics 2 adds whole-body humanoid control, dexterous manipulation and multi-robot coordination."
+  },
+  {
+    "file": "2026-08-eu-ai-act-transparency-enforcement.md",
+    "slug": "2026-08-eu-ai-act-transparency-enforcement",
+    "permalink": "event/2026-08-eu-ai-act-transparency-enforcement/",
+    "title": "EU AI Act Transparency Duties and Enforcement Powers Take Effect",
+    "date": "2026-08-02",
+    "category": "regulation",
+    "tags": [
+      "european-union",
+      "ai-act",
+      "transparency",
+      "general-purpose-ai"
+    ],
+    "short": "EU AI Act transparency duties and enforcement powers become applicable, including oversight of general-purpose AI models."
+  },
+  {
+    "file": "2026-08-minimax-h3-open-weights.md",
+    "slug": "2026-08-minimax-h3-open-weights",
+    "permalink": "event/2026-08-minimax-h3-open-weights/",
+    "title": "MiniMax H3 Open-Weight Release",
+    "date": "2026-08-03",
+    "category": "model-release",
+    "tags": [
+      "minimax",
+      "video-generation",
+      "audio-generation",
+      "multimodal",
+      "open-weights"
+    ],
+    "short": "MiniMax publishes H3-Base checkpoints for multimodal-conditioned video and stereo-audio generation."
+  },
+  {
+    "file": "2026-08-muse-glimmer.md",
+    "slug": "2026-08-muse-glimmer",
+    "permalink": "event/2026-08-muse-glimmer/",
+    "title": "Meta Muse Glimmer",
+    "date": "2026-08-10",
+    "category": "model-release",
+    "tags": [
+      "meta",
+      "muse",
+      "local-ai",
+      "agents",
+      "open-weights"
+    ],
+    "short": "Meta releases Muse Glimmer, a 30-billion-parameter multimodal model for local agents, under Apache 2.0."
+  },
+  {
+    "file": "2026-08-qwen3-8-open-weights.md",
+    "slug": "2026-08-qwen3-8-open-weights",
+    "permalink": "event/2026-08-qwen3-8-open-weights/",
+    "title": "Qwen3.8 Max-Class Open Weights",
+    "date": "2026-08-12",
+    "category": "model-release",
+    "tags": [
+      "alibaba",
+      "qwen",
+      "open-weights",
+      "mixture-of-experts",
+      "reasoning"
+    ],
+    "short": "Alibaba publishes Qwen3.8-2.4T-A95B, bringing its Max-class model line to downloadable weights."
+  },
+  {
+    "file": "2026-08-minimax-music-3.md",
+    "slug": "2026-08-minimax-music-3",
+    "permalink": "event/2026-08-minimax-music-3/",
+    "title": "MiniMax Music 3.0",
+    "date": "2026-08-13",
+    "category": "model-release",
+    "tags": [
+      "minimax",
+      "music-generation",
+      "audio",
+      "generative-ai"
+    ],
+    "short": "MiniMax introduces Music 3.0 for generating complete songs of up to five minutes from concepts and optional lyrics."
+  },
+  {
+    "file": "2026-09-world-labs-atlas.md",
+    "slug": "2026-09-world-labs-atlas",
+    "permalink": "event/2026-09-world-labs-atlas/",
+    "title": "World Labs Introduces Atlas for Spatial World Modeling",
+    "date": "2026-09-01",
+    "category": "architecture",
+    "tags": [
+      "world-labs",
+      "atlas",
+      "world-models",
+      "spatial-intelligence"
+    ],
+    "short": "World Labs introduces Atlas, a multimodal world model with camera-conditioned generation and explicit 3D outputs."
+  },
+  {
+    "file": "2026-09-gemini-3-8-flash-cyber.md",
+    "slug": "2026-09-gemini-3-8-flash-cyber",
+    "permalink": "event/2026-09-gemini-3-8-flash-cyber/",
+    "title": "Gemini 3.8 Flash and Flash Cyber",
+    "date": "2026-09-02",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "gemini",
+      "agents",
+      "cybersecurity"
+    ],
+    "short": "Google releases Gemini 3.8 Flash and introduces Flash Cyber for trusted defenders through Fairwind."
+  },
+  {
+    "file": "2026-09-gpt-6-astra.md",
+    "slug": "2026-09-gpt-6-astra",
+    "permalink": "event/2026-09-gpt-6-astra/",
+    "title": "GPT-6 Astra Initial Rollout",
+    "date": "2026-09-03",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-6",
+      "agents",
+      "computer-use"
+    ],
+    "short": "OpenAI introduces GPT-6 Astra and starts a limited rollout of its new frontier model generation."
+  },
+  {
+    "file": "2026-09-alphagenome-atlas.md",
+    "slug": "2026-09-alphagenome-atlas",
+    "permalink": "event/2026-09-alphagenome-atlas/",
+    "title": "AlphaGenome Atlas Maps Predicted Effects of Nine Billion DNA Variants",
+    "date": "2026-09-08",
+    "category": "milestone",
+    "tags": [
+      "google-deepmind",
+      "alphagenome",
+      "genomics",
+      "datasets"
+    ],
+    "short": "AlphaGenome Atlas releases genome-wide molecular-effect predictions for roughly nine billion possible single-nucleotide variants."
+  },
+  {
+    "file": "2026-09-meta-muse-agent.md",
+    "slug": "2026-09-meta-muse-agent",
+    "permalink": "event/2026-09-meta-muse-agent/",
+    "title": "Meta Launches Muse Personal AI Agent",
+    "date": "2026-09-08",
+    "category": "product-launch",
+    "tags": [
+      "meta",
+      "muse",
+      "agents",
+      "security"
+    ],
+    "short": "Meta launches Muse, a personal agent with a dedicated cloud VM, persistent work, and an independent permission system."
+  },
+  {
+    "file": "2026-09-deepseek-v4-1-flash.md",
+    "slug": "2026-09-deepseek-v4-1-flash",
+    "permalink": "event/2026-09-deepseek-v4-1-flash/",
+    "title": "DeepSeek V4.1 Flash",
+    "date": "2026-09-10",
+    "category": "model-release",
+    "tags": [
+      "deepseek",
+      "encoder-decoder",
+      "multimodal",
+      "kv-cache",
+      "open-weights"
+    ],
+    "short": "DeepSeek launches V4.1 Flash with native vision and an asymmetric architecture designed to reduce long-context serving costs."
+  },
+  {
+    "file": "2026-09-siri-ai-beta.md",
+    "slug": "2026-09-siri-ai-beta",
+    "permalink": "event/2026-09-siri-ai-beta/",
+    "title": "Apple Begins Siri AI Public Beta Rollout",
+    "date": "2026-09-14",
+    "category": "product-launch",
+    "tags": [
+      "apple",
+      "siri",
+      "personal-assistant",
+      "on-device-ai"
+    ],
+    "short": "Apple begins rolling out Siri AI in English beta across supported devices with its 2027 operating-system releases."
+  },
+  {
+    "file": "2026-09-claude-opus-5-5.md",
+    "slug": "2026-09-claude-opus-5-5",
+    "permalink": "event/2026-09-claude-opus-5-5/",
+    "title": "Claude Opus 5.5",
+    "date": "2026-09-22",
+    "category": "model-release",
+    "tags": [
+      "anthropic",
+      "claude",
+      "agents",
+      "efficiency"
+    ],
+    "short": "Anthropic introduces Opus 5.5 with lower token prices and revised safeguards for advanced professional work."
+  },
+  {
+    "file": "2026-09-gpt-6-sol-luna.md",
+    "slug": "2026-09-gpt-6-sol-luna",
+    "permalink": "event/2026-09-gpt-6-sol-luna/",
+    "title": "GPT-6 Sol and Luna",
+    "date": "2026-09-22",
+    "category": "model-release",
+    "tags": [
+      "openai",
+      "gpt-6",
+      "efficiency",
+      "agents"
+    ],
+    "short": "OpenAI releases GPT-6 Sol and Luna through its API, ChatGPT Work, and Codex."
+  },
+  {
+    "file": "2026-09-openai-dots.md",
+    "slug": "2026-09-openai-dots",
+    "permalink": "event/2026-09-openai-dots/",
+    "title": "OpenAI Launches Dots",
+    "date": "2026-09-29",
+    "category": "product-launch",
+    "tags": [
+      "openai",
+      "dots",
+      "agents",
+      "persistent-agents"
+    ],
+    "short": "OpenAI begins rolling out Dots, always-on agents powered by GPT-6 Astra with their own cloud computers."
+  },
+  {
+    "file": "2026-09-gemini-4-argon.md",
+    "slug": "2026-09-gemini-4-argon",
+    "permalink": "event/2026-09-gemini-4-argon/",
+    "title": "Gemini 4 Argon Limited Rollout",
+    "date": "2026-09-30",
+    "category": "model-release",
+    "tags": [
+      "google",
+      "gemini-4",
+      "reasoning",
+      "cybersecurity"
+    ],
+    "short": "Google announces Gemini 4 Argon and begins a limited rollout to trusted cyber defenders through Fairwind."
+  },
+  {
+    "file": "2026-09-synthid-bio.md",
+    "slug": "2026-09-synthid-bio",
+    "permalink": "event/2026-09-synthid-bio/",
+    "title": "SynthID Bio Extends AI Watermarking to Protein Designs",
+    "date": "2026-09-30",
+    "category": "research",
+    "tags": [
+      "google-deepmind",
+      "synthid",
+      "protein-design",
+      "provenance",
+      "biosecurity"
+    ],
+    "short": "Google DeepMind presents watermarking methods for AI-designed protein sequences and predicted structures, with laboratory validation."
+  },
+  {
+    "file": "2026-10-mistral-large-4-preview.md",
+    "slug": "2026-10-mistral-large-4-preview",
+    "permalink": "event/2026-10-mistral-large-4-preview/",
+    "title": "Mistral Large 4 Public Preview",
+    "date": "2026-10-06",
+    "category": "model-release",
+    "tags": [
+      "mistral",
+      "multimodal",
+      "agents",
+      "preview",
+      "europe"
+    ],
+    "short": "Mistral opens a public API preview of Large 4, a trillion-parameter multimodal model trained in European datacenters."
+  },
+  {
+    "file": "2026-10-openai-mathematics-repository.md",
+    "slug": "2026-10-openai-mathematics-repository",
+    "permalink": "event/2026-10-openai-mathematics-repository/",
+    "title": "OpenAI Releases a Public Collection of AI-Generated Mathematical Manuscripts",
+    "date": "2026-10-06",
+    "category": "research",
+    "tags": [
+      "openai",
+      "mathematics",
+      "lean",
+      "formal-verification",
+      "research-transparency"
+    ],
+    "short": "OpenAI publishes mathematical manuscripts, selected reasoning summaries and partial Lean formalizations from an internal model."
+  },
+  {
+    "file": "2026-10-microsoft-execution-containers.md",
+    "slug": "2026-10-microsoft-execution-containers",
+    "permalink": "event/2026-10-microsoft-execution-containers/",
+    "title": "Microsoft Execution Containers Becomes Generally Available",
+    "date": "2026-10-07",
+    "category": "tool",
+    "tags": [
+      "microsoft",
+      "agents",
+      "sandboxing",
+      "security"
+    ],
+    "short": "Microsoft makes Execution Containers generally available to enforce policy boundaries around AI agent workloads."
   }
 ]

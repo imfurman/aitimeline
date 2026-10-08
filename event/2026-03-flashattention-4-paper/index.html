@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FlashAttention-4 Paper and FlexAttention Integration (2026) | AI Timeline</title>
+  <meta name="description" content="FlashAttention-4&#39;s technical paper and PyTorch integration describe attention kernels optimized for modern GPU bottlenecks.">
+  <meta name="robots" content="index,follow">
+  <link rel="canonical" href="https://aitimeline.live/event/2026-03-flashattention-4-paper/">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="FlashAttention-4 Paper and FlexAttention Integration (2026) | AI Timeline">
+  <meta property="og:description" content="FlashAttention-4&#39;s technical paper and PyTorch integration describe attention kernels optimized for modern GPU bottlenecks.">
+  <meta property="og:url" content="https://aitimeline.live/event/2026-03-flashattention-4-paper/">
+  <meta property="og:site_name" content="AI Timeline">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="FlashAttention-4 Paper and FlexAttention Integration (2026) | AI Timeline">
+  <meta name="twitter:description" content="FlashAttention-4&#39;s technical paper and PyTorch integration describe attention kernels optimized for modern GPU bottlenecks.">
+  <link rel="stylesheet" href="../../css/style.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"FlashAttention-4 Paper and FlexAttention Integration","description":"FlashAttention-4's technical paper and PyTorch integration describe attention kernels optimized for modern GPU bottlenecks.","datePublished":"2026-03-05","dateModified":"2026-03-05","mainEntityOfPage":"https://aitimeline.live/event/2026-03-flashattention-4-paper/","author":{"@type":"Organization","name":"AI Timeline Contributors"},"publisher":{"@type":"Organization","name":"AI Timeline"},"articleSection":"Tool","keywords":"flashattention, gpu-kernels, pytorch, blackwell, efficiency"}</script>
+</head>
+<body class="event-page">
+  <header class="hero event-hero">
+    <div class="hero-content">
+      <a class="event-back-link" href="../../">Back to timeline</a>
+      <h1>FlashAttention-4 Paper and FlexAttention Integration</h1>
+      <p>FlashAttention-4&#39;s technical paper and PyTorch integration describe attention kernels optimized for modern GPU bottlenecks.</p>
+      <p class="event-page-meta"><time datetime="2026-03-05">March 5, 2026</time> <span>Tool</span></p>
+    </div>
+  </header>
+  <main class="event-main">
+    <article class="event-article">
+      <h2>What Happened</h2>
+<p>Researchers published the FlashAttention-4 paper on March 5, 2026. PyTorch announced a corresponding FlexAttention backend that day. This entry dates the technical publication and framework integration; earlier code and previews preceded them.</p>
+<h2>Why It Matters</h2>
+<p>Attention is a central cost in transformer training and inference. Optimizing it for changing GPU bottlenecks extends the practical value of newer hardware. FlexAttention integration also makes these techniques available for customized attention patterns.</p>
+<h2>Technical Details</h2>
+<p>FlashAttention-4 uses asynchronous matrix operations, larger tiles, conditional softmax rescaling, software-emulated exponentials and Blackwell tensor-memory features. Its implementation uses Python-embedded CuTe DSL. The authors report maximum BF16 kernel speedups of 1.3 times over cuDNN 9.13 and 2.7 times over Triton on B200 GPUs. These are configuration-specific attention measurements, not equivalent whole-model speedups. PyTorch generates score and mask modifications and instantiates compatible kernels through its compiler.</p>
+      
+      <section class="event-source-links" aria-label="Source links">
+        <h2>Sources</h2>
+        <ul>
+          <li><a href="https://arxiv.org/abs/2603.05451" target="_blank" rel="noopener noreferrer">Research paper</a></li><li><a href="https://www.together.ai/blog/flashattention-4" target="_blank" rel="noopener noreferrer">Author announcement</a></li><li><a href="https://pytorch.org/blog/flexattention-flashattention-4-fast-and-flexible/" target="_blank" rel="noopener noreferrer">PyTorch integration</a></li>
+        </ul>
+      </section>
+    </article>
+  </main>
+  <footer class="site-footer" role="contentinfo">
+    <p>AI Timeline is a public, continuously updated reference for key AI model launches, research milestones, and product breakthroughs.</p>
+    <div class="footer-links">
+      <a href="../../">Timeline</a>
+      <a href="../../CONTRIBUTING.md">Contribute</a>
+      <a href="../../sitemap.xml">Sitemap</a>
+    </div>
+  </footer>
+</body>
+</html>

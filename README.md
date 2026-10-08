@@ -3,7 +3,7 @@
 **AI moves too fast to keep track of. This project fixes that.**
 
 [![Live Site](https://img.shields.io/badge/live-aitimeline.live-blue)](https://aitimeline.live/)
-[![Events](https://img.shields.io/badge/events-90+-orange)]()
+[![Events](https://img.shields.io/badge/events-150-orange)]()
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
@@ -11,7 +11,7 @@
 
 New models drop every week. Frameworks appear overnight. Yesterday's state-of-the-art becomes a footnote. If you blink, you miss a release that changes everything.
 
-**AI Timeline** is an open-source, interactive timeline that tracks every major AI event — model releases, research breakthroughs, product launches, and open-source milestones — in one place you can actually browse and understand. 90+ events from 1950 to today, updated continuously.
+**AI Timeline** is an open-source, interactive timeline that tracks every major AI event — model releases, research breakthroughs, product launches, and open-source milestones — in one place you can actually browse and understand. 150 events from 1950 to today, updated continuously.
 
 🔗 **[See it live at aitimeline.live](https://aitimeline.live/)**
 
